@@ -13,6 +13,6 @@ Después le preguntará la nota (que puede tener decimales) de los 6 módulos qu
 "Qué nota tienes en el módulo 6?"
 
 
-Al finalizar le devolverá un mensaje en el que le indicará la nota media del curso (redondeando al entero inferior).
+Al finalizar le devolverá un mensaje en el que le indicará la nota media del curso (truncando).
 
 "Hola xxxxxx tu nota media en el curso es: "

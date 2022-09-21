@@ -2,7 +2,7 @@
 
 Partiendo de una clase en la que tenemos definidos tres variables tipo char con los  siguientes literales: 
 
-*char mayuscula = 'B';*
+*char mayuscula = 'A';*
 
 *char minuscula ='a';*
 

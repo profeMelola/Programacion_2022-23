@@ -51,3 +51,12 @@ Este programa debe indicar al usuario que escriba un carácter, pudiendo ser:
 - Un número.
 
 Una vez introducido el carácter el programa debe mostrar un mensaje por consola indicando si el caracter introducido es una letra en mayúsculas, minúsculas o un número. En caso de que no sea ninguna de las tres cosas anteriores que el programa muestre un mensaje de aviso.
+
+# ENUNCIADO 3
+
+## Copia la clase Main del enunciado 2 porque vamos a modificarla incluyendo una estructura de repetición.
+
+Modifica el programa para que termine exclusivamente cuando el usuario escriba la letra Q (de "quit", salir o abandonar ).
+
+A continuación muestro como ejemplo el resultado del programa por consola:
+

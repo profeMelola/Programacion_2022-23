@@ -50,4 +50,4 @@ Este programa debe indicar al usuario que escriba un carácter, pudiendo ser:
 - Una letra en minúsculas.
 - Un número.
 
-Una vez introducido el carácter el programa debe mostrar un mensaje por consola indicando si el caracter introducido es una letra en mayúsculas, minúsculas o un número.
+Una vez introducido el carácter el programa debe mostrar un mensaje por consola indicando si el caracter introducido es una letra en mayúsculas, minúsculas o un número. En caso de que no sea ninguna de las tres cosas anteriores que el programa muestre un mensaje de aviso.

@@ -60,3 +60,5 @@ Modifica el programa para que termine exclusivamente cuando el usuario escriba l
 
 A continuación muestro como ejemplo el resultado del programa por consola:
 
+![image](https://user-images.githubusercontent.com/91023374/191754512-5276e934-309f-4ccf-bdee-e4aab31c4b7b.png)
+

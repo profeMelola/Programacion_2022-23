@@ -17,6 +17,6 @@ Al finalizar le devolverá un mensaje en el que le indicará la nota media del c
 
 "Hola xxxxxx tu nota media en el curso es: "
 
-## Versión 1: usando una variable para cada módulo
+## Versión 1: usando una variable para cada nota del módulo
 
 ## Versión 2: usando una variable acumuladora (sumatorio de todas las notas)

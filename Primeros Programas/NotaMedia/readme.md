@@ -16,3 +16,7 @@ Después le preguntará la nota (que puede tener decimales) de los 6 módulos qu
 Al finalizar le devolverá un mensaje en el que le indicará la nota media del curso (truncando).
 
 "Hola xxxxxx tu nota media en el curso es: "
+
+## Versión 1: usando una variable para cada módulo
+
+## Versión 2: usando una variable acumuladora (sumatorio de todas las notas)

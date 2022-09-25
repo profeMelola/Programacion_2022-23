@@ -36,13 +36,6 @@ El resultado a mostrará en la consola será:
   Distancia en el eje y = 3**
 
 ## Ejercicio 3: EurosCentimos
-Partiendo de las siguientes monedas:
-- Moneda de 2 euros.
-- Moneda de 1 euro.
-- Moneda de 50 céntimos.
-- Moneda de 20 céntimos.
-- Moneda de 10 céntimos.
-
-El programa debe indicar el dinero que tenemos tanto en euros como en céntimos.
+Implemeta un programa que nos diga el dinero que tenemos (en euros y céntimos) después de pedirnos cuantas monedas tenemos (de 2€, 1€, 50 céntimos, 20 céntimos o 10 céntimos).
 
 

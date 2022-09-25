@@ -1,5 +1,7 @@
 /*
- * ENUNCIADO DEL EJERCICIO:
+ * https://github.com/profeMelola/Programacion_2022-23/blob/main/Primeros%20Programas/NotaMedia/readme.md
+ 
+ENUNCIADO DEL EJERCICIO:
  
 Escribe un programa que pregunte el nombre al alumno.
 Después le preguntará la nota (que puede tener decimales) de los 6 módulos que está cursando:

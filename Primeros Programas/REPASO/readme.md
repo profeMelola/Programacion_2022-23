@@ -53,5 +53,30 @@ Implemeta un programa que nos diga el dinero que tenemos (en euros y céntimos) 
 
 ![image](https://user-images.githubusercontent.com/91023374/192148770-3bd15245-fe98-4d6a-b0e6-49ab107f768d.png)
 
+## Ejercicio 4: PrecioFinal
+Escribe un programa que pida:
+- el nombre del artículo que se compra
+- después pida el  precio del artículo
+- pregunte el tipo de iva que se debe aplicar (numérico que corresponde al %)
+- pregunte el descuento que se debe aplicar al precio (numérico que corresponde al  %)
+- pregunte también la cantidad del artículo comprada y muestre al final el precio que se debe pagar. 
 
+Muestre el precio final
 
+## Ejercicio 5: DarPaseo
+Escribe un programa que nos indique si podemos salir a la calle. 
+
+Existen aspectos que influirán en esta decisión: 
+- si está lloviendo
+- si hemos terminado nuestras tareas.
+
+Sólo podremos salir a la calle si no está lloviendo y si hemos terminado nuestras tareas. 
+
+Existe una opción en la que, indistintamente de lo anterior, podremos salir a la calle: el hecho de que tengamos que ir a la biblioteca (para realizar algún trabajo, entregar un libro, et...).
+
+Solicita al usuario mediante booleanos (true o false):
+- si llueve
+- si ha finalizado las tareas
+- si necesita ir a la biblioteca. 
+
+El programa debe mostrar mediante un booleano si es posible que se le otorgue permiso para ir a la calle. 

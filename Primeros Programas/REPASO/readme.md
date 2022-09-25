@@ -80,3 +80,15 @@ Solicita al usuario mediante booleanos (true o false):
 - si necesita ir a la biblioteca. 
 
 El programa debe mostrar mediante un booleano si es posible que se le otorgue permiso para ir a la calle. 
+
+## Ejercicio 6: CalculadoraHora
+Escribe un programa que recibe como dato de entrada una hora expresada en segundos y devuelva por consola la hora en formato *HH:MM:SS* (hora, minutos y segundos).
+
+Solo es posible calcular horas inferiores a 1 día, por tanto el número mayor a introducir en segundos es 86400 (son los segundos que tiene un día).
+
+## Ejercicio 7: SumaSegundo
+Escribe un programa que recibe como datos de entrada una hora expresada en horas, minutos y segundos que nos calcula y escribe la hora, minutos y segundos que serán, transcurrido un segundo.
+
+Solo sirve como máximo para 23:59:58
+
+

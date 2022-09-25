@@ -20,3 +20,5 @@ Al finalizar le devolverá un mensaje en el que le indicará la nota media del c
 ## Versión 1: usando una variable para cada nota del módulo
 
 ## Versión 2: usando una variable acumuladora (sumatorio de todas las notas)
+
+## Versión 3: modifica el programa para usar una estructura de repetición (bucle) para pedir la nota de cada módulo

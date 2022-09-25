@@ -40,7 +40,7 @@ Sin estructuras condicionales completa la lógica necesaria para se pueda identi
 
 
 
-# ENUNCIADO 2
+# ENUNCIADO 2: Estructura condicional IF...
 
 ## Vamos a programar una nueva clase (podéis hacer una copia de la anterior o crearla de cero).
 

@@ -8,7 +8,10 @@ Hazlo de tres formas:
 - con bucle while.
 - con bucle do..while.
 
-Saca tus propias conclusiones de qué tipo de bucle es más adecuado cuando sabes el número exacto de repetidiciones.
+**Saca tus propias conclusiones:**
+
+- ¿Se puede hacer con los tres tipos de bucles?
+- ¿Qué tipo de bucle es más adecuado cuando sabes el número exacto de repetidiciones?
 
 ## Ejercicio 2
 Programa que muestre los números del 1 a un número mayor introducido por teclado utilizando la sentencia for. 

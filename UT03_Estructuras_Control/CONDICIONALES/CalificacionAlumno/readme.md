@@ -11,3 +11,9 @@ Desarrolla un programa que muestra la nota de un alumno en la forma (insuficient
 7 -> 8 = notable
 
 9 -> 10 = sobresaliente
+
+## Añadir bucle
+Añadir al programa que se ejecuta de forma repetida hasta que el usuario escriba 0.
+
+Hacer una versión con **while** y otra con **do...while**
+

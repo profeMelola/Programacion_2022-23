@@ -42,6 +42,10 @@ El resultado a mostrará en la consola será:
 
 **Distancia en el eje x = 2 
   Distancia en el eje y = 3**
+  
+### Solución completa: Teorema de Pitágoras
+![image](https://user-images.githubusercontent.com/91023374/192510254-d9f6af37-07dc-40c2-b2fc-0ab55b1aa749.png)
+
 
 ## Ejercicio 3: EurosCentimos
 Implemeta un programa que nos diga el dinero que tenemos (en euros y céntimos) después de pedirnos cuantas monedas tenemos de 

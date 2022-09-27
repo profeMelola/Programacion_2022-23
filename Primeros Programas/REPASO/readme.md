@@ -95,7 +95,7 @@ Solo es posible calcular horas inferiores a 1 día, por tanto el número mayor a
 ## Ejercicio 7: SumaSegundo
 Escribe un programa que recibe como datos de entrada una hora expresada en horas, minutos y segundos que nos calcula y escribe la hora, minutos y segundos que serán, transcurrido un segundo.
 
-Solo sirve como máximo para 23:59:58
+Solo sirve como máximo para 23:59:59
 
 ## Ejercicio 8: CalcularPatas
 Un biólogo está realizando un estudio de distintas especies de invertebrados y necesita una aplicación que le ayude a contabilizar el número de patas que tienen en total todos los animales capturados durante una jornada de trabajo. Para ello, te ha solicitado que escribas una aplicación a la que hay que proporcionar. 

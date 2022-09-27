@@ -19,7 +19,9 @@ Escribir la ganancia por consola
 
 ## Ejercicio 2: DistanciaPuntos
 Pide al usuario dos pares de números que representen dos puntos en el plano.
-x1, y2
+
+x1, y1
+
 x2, y2
 
 Calcula y muestra la distancia entre ellos.

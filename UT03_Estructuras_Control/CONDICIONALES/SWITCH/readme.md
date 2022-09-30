@@ -21,3 +21,8 @@ Al seleccionar una opción mostrar la conversión de gramos a dicha unidad.
 Comprobar si la opción del menú introducida no es válida. 
 
 Si la cantidad de gramos es un valor negativo, no hacer nada.
+
+**Ejemplo de salida por consola**
+
+![image](https://user-images.githubusercontent.com/91023374/193261612-72ebcf81-d40b-414c-b725-cf50eb2661b6.png)
+

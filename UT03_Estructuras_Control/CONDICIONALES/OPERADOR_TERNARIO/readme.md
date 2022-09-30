@@ -22,8 +22,6 @@ Programa que declare una variableA de tipo entero y asígnale un valor.
 
 A continuación muestra un mensaje indicando si A es par o impar. 
 
-Utiliza el operador condicional ( ? : ) dentro del println para resolverlo. 
-
 En otro mensaje indicar si A es a la vez múltiplo de 2 (par) y múltiplo de 3. 
 
 Si no, que me muestre otro mensaje (p.e. “No se cumplen las condiciones”)

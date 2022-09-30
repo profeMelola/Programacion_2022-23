@@ -26,3 +26,9 @@ Si la cantidad de gramos es un valor negativo, no hacer nada.
 
 ![image](https://user-images.githubusercontent.com/91023374/193261612-72ebcf81-d40b-414c-b725-cf50eb2661b6.png)
 
+## Ejercicio 3: SwitchMeses
+Programa que lea un mes en tipo String y compruebe si el valor corresponde a un mes de 30, 31 o 28 días. 
+
+Se mostrará además el nombre del mes. 
+
+Comprobar si la opción introducida no es válida. (No es necesario poner break; en todos los casos.)

@@ -1,3 +1,4 @@
+package operadorternario;
 /*
  * https://github.com/profeMelola/Programacion_2022-23/tree/main/UT03_Estructuras_Control/CONDICIONALES/OPERADOR_TERNARIO#ejercicio-1-positivonegativo
  */

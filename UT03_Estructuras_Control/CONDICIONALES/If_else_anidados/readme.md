@@ -16,6 +16,6 @@ e indique el estado en el que se encuentra esa persona en función del valor de 
 Construir un programa que pasando un número entero (de 1 a 7 incluidos) muestre el día de la semana correspondiente teniendo en cuenta que 1 se corresponde con el lunes y 7 con el domingo.
 
 ### con switch case
-Haz este mismo ejercicio aplicando la estructura de contros Swith... case.
+Haz este mismo ejercicio aplicando la estructura de control Swith... case.
 
 **¿Qué forma de implementar el programa te resulta más cómoda?**

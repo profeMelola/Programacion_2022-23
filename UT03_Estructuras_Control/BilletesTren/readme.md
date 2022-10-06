@@ -41,7 +41,8 @@ El programa no parará hasta llegar a un número de billetes vendidos que el usu
 
 **Ejemplo salida consola:**
 
-![image](https://user-images.githubusercontent.com/91023374/194309706-62c30842-32be-4bc9-936b-acebc27fd210.png)
+![image](https://user-images.githubusercontent.com/91023374/194341178-8288ab29-b9b3-48ea-af6d-411e506564f3.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 4 !!!**

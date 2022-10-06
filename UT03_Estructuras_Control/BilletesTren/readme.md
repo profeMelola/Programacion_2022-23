@@ -27,6 +27,11 @@ En ese momento el programa parará.
 Cada 5 billetes vendidos el precio del billete será gratis.
 El programa no parará hasta llegar a un número de billetes vendidos que el usuario ha especificado previamente por consola (límite).
 
+**Ejemplo salida consola:**
+
+![image](https://user-images.githubusercontent.com/91023374/194309248-87f06a14-d598-4647-90bc-e20e1311bed6.png)
+
+
 ![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 3 !!!**
 - El programa no parará hasta llegar a un número de operaciones que el usuario ha especificado previamente por consola (límite).
 - En cada operación, el programa debe preguntar por el número de billetes que quiere comprar el usuario (en vez de ir de uno en uno como en los retos anteriores)

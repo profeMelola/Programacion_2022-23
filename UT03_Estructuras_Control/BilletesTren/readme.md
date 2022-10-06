@@ -39,5 +39,10 @@ El programa no parará hasta llegar a un número de billetes vendidos que el usu
 - Debe indicar por pantalla el precio de cada billete.
 - Finalmente debe indicar el importe total de todos los billetes que ha comprado el usuario.
 
+**Ejemplo salida consola:**
+
+![image](https://user-images.githubusercontent.com/91023374/194309706-62c30842-32be-4bc9-936b-acebc27fd210.png)
+
+
 ![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 4 !!!**
 - Debes añadir al reto3 la lógica para que al finalizar el programa (se ha llegado al límite de operaciones) se muestre por pantalla el importe total recaudado por la máquina (el sumatorio de todos los importes de cada operación)

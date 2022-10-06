@@ -18,6 +18,11 @@ Debe mostrar por consola el precio final del billete.
 En el viaje vendido número 5 (el quinto billete que vende la máquina), el billete será gratis.
 En ese momento el programa parará.
 
+**Ejemplo salida consola:**
+
+![image](https://user-images.githubusercontent.com/91023374/194308918-b3baabc7-5510-4ead-93af-3e95056f9420.png)
+
+
 ![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 2 !!!**
 Cada 5 billetes vendidos el precio del billete será gratis.
 El programa no parará hasta llegar a un número de billetes vendidos que el usuario ha especificado previamente por consola (límite).

@@ -6,6 +6,7 @@
   *REQUISITOS:*
   - Debe pedir el número de facturas del cliente.
   - Por cada factura debe pedir el número de gastos que tiene la factura.
+  - Por cada gasto debe pedir el importe del mismo.
   - Debe mostrar el importe total de gastos de cada factura.
   - Finalmente debe mostrar el importe total de todas las facturas del usuario
  

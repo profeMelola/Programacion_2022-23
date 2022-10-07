@@ -18,9 +18,19 @@ Debe mostrar por consola el precio final del billete.
 En el viaje vendido número 5 (el quinto billete que vende la máquina), el billete será gratis.
 En ese momento el programa parará.
 
+**Ejemplo salida consola:**
+
+![image](https://user-images.githubusercontent.com/91023374/194308918-b3baabc7-5510-4ead-93af-3e95056f9420.png)
+
+
 ![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 2 !!!**
 Cada 5 billetes vendidos el precio del billete será gratis.
 El programa no parará hasta llegar a un número de billetes vendidos que el usuario ha especificado previamente por consola (límite).
+
+**Ejemplo salida consola:**
+
+![image](https://user-images.githubusercontent.com/91023374/194309248-87f06a14-d598-4647-90bc-e20e1311bed6.png)
+
 
 ![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 3 !!!**
 - El programa no parará hasta llegar a un número de operaciones que el usuario ha especificado previamente por consola (límite).
@@ -29,5 +39,16 @@ El programa no parará hasta llegar a un número de billetes vendidos que el usu
 - Debe indicar por pantalla el precio de cada billete.
 - Finalmente debe indicar el importe total de todos los billetes que ha comprado el usuario.
 
+**Ejemplo salida consola:**
+
+![image](https://user-images.githubusercontent.com/91023374/194342175-a4320d5c-dddf-46c6-addf-b328a364ab97.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 4 !!!**
 - Debes añadir al reto3 la lógica para que al finalizar el programa (se ha llegado al límite de operaciones) se muestre por pantalla el importe total recaudado por la máquina (el sumatorio de todos los importes de cada operación)
+
+
+**Ejemplo salida consola:**
+
+![image](https://user-images.githubusercontent.com/91023374/194341721-531f433a-0f23-401c-9709-6045db3339da.png)

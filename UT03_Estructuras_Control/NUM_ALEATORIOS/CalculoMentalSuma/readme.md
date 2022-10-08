@@ -8,7 +8,7 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/mod/page/view.p
 
 ### Desarrollar un juego que ayude a mejorar el cálculo mental de la suma. 
 
-El jugador tendrá que introducir la solución de la suma de dos números aleatorios comprendidos entre 1 y 100 (decimales incluidos).
+El jugador tendrá que introducir la solución de la suma de dos números aleatorios comprendidos entre 1 y 100.
 
 Mientras la solución introducida sea correcta, el juego continuará. 
 

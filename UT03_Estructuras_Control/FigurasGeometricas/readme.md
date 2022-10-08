@@ -1,4 +1,4 @@
-# Ejercicio: dibujar con asteriscos figuras geométricas 
+# Ejercicio: dibujar con asteriscos figuras geométricas: uso de bucles dobles y funciones 
 
 ## Especificaciones
 
@@ -15,7 +15,7 @@ En el caso de la **pirámide** el programa debe pedir la altura de la pirámide.
 
 Para ello muestra un menú teniendo una opción de salir del programa. 
 
-Utiliza funciones o métodos estáticos.
+**Utiliza funciones o métodos estáticos.**
 
 ### Ejemplo de resultado por consola
 

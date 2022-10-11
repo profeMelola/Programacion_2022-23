@@ -14,7 +14,7 @@ Mientras la solución introducida sea correcta, el juego continuará.
 
 En caso contrario, el programa terminará y mostrará el número de operaciones realizadas correctamente. 
 
-## Ejercicio 2: AleatoriosRango
+## Ejercicio 2: AleatoriosRango (con función)
 
 Crea una función que muestre por consola una serie de números aleatorios enteros.
 

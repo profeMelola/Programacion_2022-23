@@ -16,7 +16,7 @@ En caso contrario, el programa terminará y mostrará el número de operaciones 
 
 ## Ejercicio 2: AleatoriosRango
 
-Crea una función que muestre por consola una serie de números aleatorios enterios.
+Crea una función que muestre por consola una serie de números aleatorios enteros.
 
 Los parámetros de la función serán:
 - La cantidad de números aleatorios que se mostrarán.

@@ -7,6 +7,9 @@ boolean esPrimo(int n)
 ## EJERCICIO 2: divisoresPrimos 
 Escribir una función que se le pase un número entero y devuelva el número de divisores primos que tiene.
 
+**Notas:**
+Los números primos son los números enteros que solamente son divisibles por el 1 y por ellos mismos. Algunos de los números primos son: 1, 2, 3, 5, 7, 11, 13,….
+
 ## EJERCICIO 3: calculaSegundos
 Escribe una función a la que se pase como parámetros de entrada una cantidad de días, horas y minutos.
 

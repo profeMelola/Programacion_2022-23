@@ -16,8 +16,7 @@ Escribir una función que se le pase un número entero y devuelva el número de 
 
 **Ejemplo de salida por consola:**
 
-![image](https://user-images.githubusercontent.com/91023374/195575407-c704381a-c30e-408b-b3c9-ca3ba7d3dcf3.png)
-
+![image](https://user-images.githubusercontent.com/91023374/195577014-79e3ebd8-1c23-4b51-ad67-c5f723a9b79a.png)
 
 
 

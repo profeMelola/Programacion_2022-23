@@ -5,7 +5,7 @@ Diseñar una función con el siguiente prototipo:
 boolean esPrimo(int n)
 
 ## EJERCICIO 2: divisoresPrimos 
-Escribir una función que se le pase un número entero y devuelva el número de divisores primos que tienes.
+Escribir una función que se le pase un número entero y devuelva el número de divisores primos que tiene.
 
 ## EJERCICIO 3: calculaSegundos
 Escribe una función a la que se pase como parámetros de entrada una cantidad de días, horas y minutos.

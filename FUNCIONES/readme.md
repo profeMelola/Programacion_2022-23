@@ -29,3 +29,6 @@ Escribe una función a la que se pase como parámetros de entrada una cantidad d
 
 La función claculará y devolverá el número de segundos totales.
 
+![image](https://user-images.githubusercontent.com/91023374/195579683-8149e26f-0eb6-4934-8031-5ee1496c8495.png)
+
+

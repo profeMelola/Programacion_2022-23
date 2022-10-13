@@ -5,11 +5,13 @@ Diseñar una función con el siguiente prototipo:
 boolean esPrimo(int n)
 
 **Nota:**
-Los números primos son los números enteros que solamente son divisibles por el 1 y por ellos mismos. Algunos de los números primos son: 1, 2, 3, 5, 7, 11, 13,….
+Los números primos son los números enteros que solamente son divisibles por el 1 y por ellos mismos. Algunos de los números primos son: 2, 3, 5, 7, 11, 13,….
+
+El número 1 no es primo porque solo tiene un divisor. Ejemplos de números primos: 2, 3, 5, 7, 11, 13, 17, 19, 23, ...
 
 
 ## EJERCICIO 2: divisoresPrimos 
-Escribir una función que se le pase un número entero y devuelva el número de divisores primos que tiene (incluido el 1).
+Escribir una función que se le pase un número entero y devuelva el número de divisores primos que tiene.
 
 
 **Ejemplo de salida por consola:**

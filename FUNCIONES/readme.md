@@ -13,6 +13,7 @@ Escribir una función que se le pase un número entero y devuelva el número de 
 
 
 **Ejemplo de salida por consola:**
+
 ![image](https://user-images.githubusercontent.com/91023374/195572314-9edcfe06-db3c-45ff-894a-99309a647dbd.png)
 
 

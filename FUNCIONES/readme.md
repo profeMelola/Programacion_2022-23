@@ -1,5 +1,11 @@
 # EJERCICIOS PARA PRACTICAR CON FUNCIONES
 
+Empezaremos por el ejercicio 3 que es más fácil.
+
+Luego haremos el ejercicio 1.
+
+En el ejercicio 2 reutilizaremos la función de esPrimo para calcular el número de divisores primos.
+
 ## EJERCICIO 1: esPrimo
 Diseñar una función con el siguiente prototipo:
 boolean esPrimo(int n)

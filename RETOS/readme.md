@@ -38,4 +38,6 @@ operate(20, 10, "%") ➞ 0
 
 ### Nota
 
-No habrá división por cero
+No habrá división por cero porque si no te dará la excepción:
+
+*Exception in thread "main" java.lang.ArithmeticException: / by zero*

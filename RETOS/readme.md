@@ -20,3 +20,22 @@ Escribir un programa que solicite al usuario números enteros hasta que se cumpl
 - Se introduzca 3 veces el valor 3
 - Se introduzca 2 veces el valor 2
 - Se introduzca 8 veces consecutivas el mismo valor
+
+## Reto 4
+Teniendo en cuenta los operadores aritméticos básicos +, -, *, /, and %. 
+En este reto debes programar una función que reciba tres parámetros: num1, num2, y un operador.
+
+### Ejemplos
+
+operate(1, 2, "+") ➞ 3
+// 1 + 2 = 3
+
+operate(7, 10, "-") ➞ -3
+// 7 - 10 = -3
+
+operate(20, 10, "%") ➞ 0
+// 20 % 10 = 0
+
+### Nota
+
+No habrá división por cero

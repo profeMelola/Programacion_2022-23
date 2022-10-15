@@ -1,6 +1,8 @@
 # EJERCICIOS PARA PRACTICAR CON FUNCIONES
 
-Empezaremos por el ejercicio 3 que es más fácil.
+Empezaremos por el ejercicio 3 que es más fácil. 
+
+Después haremos el ejercicio 4.
 
 Luego haremos el ejercicio 1.
 

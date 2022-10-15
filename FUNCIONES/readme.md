@@ -41,3 +41,11 @@ La función claculará y devolverá el número de segundos totales.
 ![image](https://user-images.githubusercontent.com/91023374/195579683-8149e26f-0eb6-4934-8031-5ee1496c8495.png)
 
 
+## EJERCICIO 4: calcularCuotas
+Una persona adquirió un producto para pagar en 20 meses. El primer mes pagó 10 €, el segundo 20 €, el tercero 40 € y así sucesivamente. 
+
+Realizar un programa para determinar cuánto debe pagar mensualmente y el total de lo que pagará después de los 20 meses. 
+
+Este programa puede servir para calcular otras compras y con diferentes plazos, por tanto pide este información al usuario.
+
+Implementa una función que muestre por consola los pagos de cada mes y devuelva el total del importe a pagar.

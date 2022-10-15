@@ -11,6 +11,9 @@ Diseñar una función con el siguiente prototipo:
 boolean esPrimo(int n)
 
 **Nota:**
+
+![image](https://user-images.githubusercontent.com/91023374/195995669-0eb76d22-2a94-4d30-9db8-abf51833be4d.png)
+
 Los números primos son los números enteros que solamente son divisibles por el 1 y por ellos mismos. Algunos de los números primos son: 2, 3, 5, 7, 11, 13,….
 
 El número 1 no es primo porque solo tiene un divisor. Ejemplos de números primos: 2, 3, 5, 7, 11, 13, 17, 19, 23, ...

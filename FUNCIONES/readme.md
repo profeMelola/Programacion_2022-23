@@ -44,7 +44,7 @@ La función claculará y devolverá el número de segundos totales.
 
 
 ## EJERCICIO 4: calcularCuotas
-Una persona adquirió un producto para pagar en 20 meses. El primer mes pagó 10 €, el segundo 12.5 €, el tercero 15.625 € y así sucesivamente. Cada mes la cuota se incrementó un 25%.
+Una persona adquirió un producto para pagar en 20 meses. El primer mes pagó 10 €, el segundo 12.5 €, el tercero 15.625 €, el cuarto 19.53125 €... y así sucesivamente. Como puedes observar la cuota cada mes se incrementó un 25%.
 
 Realizar un programa para determinar cuánto debe pagar mensualmente y el total de lo que pagará después de los 20 meses. 
 

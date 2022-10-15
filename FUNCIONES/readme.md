@@ -50,4 +50,7 @@ Realizar un programa para determinar cuánto debe pagar mensualmente y el total 
 
 Este programa puede servir para calcular otras compras y con diferentes plazos, por tanto pide este información al usuario.
 
-Implementa una función que muestre por consola los pagos de cada mes y devuelva el total del importe a pagar.
+Implementa una función que:
+- reciba el importe de la cuota del primer mes y el número de meses.
+- muestre por consola los pagos de cada mes
+- devuelva el total del importe a pagar.

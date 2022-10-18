@@ -48,7 +48,7 @@ Una persona adquirió un producto para pagar en 20 meses. El primer mes pagó 10
 
 Realizar un programa para determinar cuánto debe pagar mensualmente y el total de lo que pagará después de los 20 meses. 
 
-Este programa puede servir para calcular otras compras y con diferentes plazos, por tanto pide este información al usuario.
+Este programa puede servir para calcular otras compras y con diferentes plazos, por tanto pide esta información al usuario.
 
 Implementa una función que:
 - reciba el importe de la cuota del primer mes y el número de meses.

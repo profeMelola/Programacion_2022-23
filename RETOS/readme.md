@@ -54,4 +54,6 @@ Escribe un programa que reciba dos variables numéricas (A y B) y programa un al
 
 Lo vamos a realizar sin utilizar String ni funciones específicas de manejo de cadenas y no vamos a controlar los posibles fallos en la entrada de datos.
 
+**Solo vamos a utilizar operaciones aritméticas!!!!!**
+
 Este ejercicio trata de recibir un número de dos cifras, por ejemplo 45, y debemos devolver por pantalla su inverso, 54.

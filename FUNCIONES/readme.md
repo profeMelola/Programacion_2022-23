@@ -54,3 +54,8 @@ Implementa una función que:
 - reciba el importe de la cuota del primer mes y el número de meses.
 - muestre por consola los pagos de cada mes
 - devuelva el total del importe a pagar.
+
+**Ejemplo de salida por consola**
+
+![image](https://user-images.githubusercontent.com/91023374/196460190-dda0ca93-bab1-47f1-beac-597701eec6bd.png)
+

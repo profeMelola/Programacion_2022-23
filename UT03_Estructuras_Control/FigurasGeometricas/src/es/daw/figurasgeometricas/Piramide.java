@@ -1,5 +1,6 @@
 /*
- * https://manolohidalgo.com/ejercicio-bucles-dibuja-piramide/
+ * Programa que pinta la pirámide con otro algoritmo distinto al de la clase Main.java
+ * Visto en clase el miércoles 19 de octubre de 2022
  */
 package es.daw.figurasgeometricas;
 
@@ -7,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author melol
+ * @author melola
  */
 public class Piramide {
 

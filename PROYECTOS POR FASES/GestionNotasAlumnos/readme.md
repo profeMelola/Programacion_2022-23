@@ -2,6 +2,9 @@
 
 Vamos a ir desarrollando por fases un programa la gestión de notas de los alumnos de una clase. El objetivo es facilitar el trabajo al profesor a la hora de calificar.
 
+![image](https://user-images.githubusercontent.com/91023374/196936768-b8d6363e-e408-49c8-a892-48cfd91b5be4.png)
+
+
 ## Versión 1
 
 El programa gestiona las notas de un único alumno (notas con decimales) y calcula la media de esas notas.

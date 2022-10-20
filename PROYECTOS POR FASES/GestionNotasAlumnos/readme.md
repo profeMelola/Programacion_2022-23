@@ -18,7 +18,7 @@ El programa gestiona las notas de un único alumno (notas con decimales) y calcu
 ## Versión 2
 
 El programa va a gestionar las notas de N alumnos por tanto pedirá al profesor introducir el número de alumnos de los que quiere calcular su nota media.
-Además devolverá la nota media de los alumnos introducidos con el fin de que el profesor obtenga información de si el nivel medio de la clase es alto, medio o bajo:
+Además devolverá la nota media de todos los alumnos introducidos con el fin de que el profesor obtenga información de si el nivel medio de la clase es alto, medio o bajo:
 
 - Nota media menor que 5 ==> bajo
 - Nota media mayor o igual que 5 y menor que 7 ==> medio

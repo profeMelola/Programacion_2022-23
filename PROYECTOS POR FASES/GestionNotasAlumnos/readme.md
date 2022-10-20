@@ -37,6 +37,8 @@ Además, cuando haya mostrado todas las notas medias de cada alumno deberá info
 
 *La nota media final de la clase es ZZZZZ. El nivel es alto/medio/bajo*
 
+Una vez mostrado este mensaje el programa terminará.
+
 ## Versión 3
 
 ![image](https://user-images.githubusercontent.com/91023374/196938736-2416bf1d-bb6c-464d-96f1-8d67370e0510.png)

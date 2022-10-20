@@ -136,6 +136,7 @@ public class Main {
     
     /**
      * Método que pinta una pirámide de n filas de dos formas
+     * Este algoritmo no lo vimos en clase. El que vimos en clase está en Piramide.java
      * @param numFilas 
      */
     public static void pintaPiramide(int numFilas){

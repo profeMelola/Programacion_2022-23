@@ -29,7 +29,9 @@ Por cada alumno el programa pedirá:
 - El nombre del alumno.
 - La nota final (decimal) de cada módulo.
 
-Por cada alumno el programa mostrará la nota media *El alumno XXXX ha obtenido una nota media de YYYY*
+Por cada alumno el programa mostrará la nota media:
+
+*El alumno XXXX ha obtenido una nota media de YYYY*
 
 Además, cuando haya mostrado todas las notas medias de cada alumno deberá informar de la nota media final:
 

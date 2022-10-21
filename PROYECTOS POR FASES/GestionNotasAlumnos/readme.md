@@ -51,7 +51,7 @@ Desarrolla un programa que haga lo mismo que en la **versión 1**, pero con el u
 - Muestra la media por pantalla: *El alumno XXXX ha obtenido una nota media de YYYY*
 
 
-### Apoyo gráfico
+## Versión 4
 
 ![image](https://user-images.githubusercontent.com/91023374/196938736-2416bf1d-bb6c-464d-96f1-8d67370e0510.png) **Próximamente arrays bidimensionales**
 

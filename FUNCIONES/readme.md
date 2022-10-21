@@ -8,6 +8,8 @@ Luego haremos el ejercicio 1.
 
 En el ejercicio 2 reutilizaremos la función de esPrimo para calcular el número de divisores primos.
 
+He añadido el ejercicio 5 para rematar la práctica de funciones.
+
 ## EJERCICIO 1: esPrimo
 Diseñar una función con el siguiente prototipo:
 boolean esPrimo(int n)
@@ -59,3 +61,14 @@ Implementa una función que:
 
 ![image](https://user-images.githubusercontent.com/91023374/196460190-dda0ca93-bab1-47f1-beac-597701eec6bd.png)
 
+
+## EJERCICIO 5: vinicultores
+
+La asociación de vinicultores tiene como política fijar un precio inicial al kilo de uva, y dependiendo de la clasificación tipos (A y B), y además en tamaños (1 y 2) se modifica el precio. 
+
+Cuando se realiza la venta del producto, ésta es de un sólo tipo y tamaño, se requiere determinar cuanto recibirá un productor por la uva que entrega en un embarque considerando lo siguiente:
+
+- **Si es de tipo A:** se le suman  20 céntimos al precio inicial por kilo  cuando es de tamaño 1 y 30 céntimos si es de tamaño 2.
+- **Si es de tipo B:** se rebajan 50 céntimos cuando es de tamaño 1, y 30 céntimos cuando es de tamaño 2.  
+
+Para el desarrollo del ejercicio es necesario crear un método que calcule el precio. 

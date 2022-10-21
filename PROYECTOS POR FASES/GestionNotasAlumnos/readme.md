@@ -45,13 +45,10 @@ Una vez mostrado este mensaje el programa terminará.
 
 Desarrolla un programa que haga lo mismo que en la **versión 1**, pero con el uso de arrays.
 
-El array debe ser inicializado de tamaño 5.
-
-Debes modificar la lógica del programa para acceder a las notas introducidas en el array.
-
-Modifica a función para calcular la media de las notas.
-
-Muestra la media por pantalla
+- El array debe ser inicializado de tamaño 6 (el número de módulos de los que vamos a introducir la nota del único alumno).
+- Debes modificar la lógica del programa para introducir las notas en el array y luego acceder a ellas.
+- Modifica a función que calcula la media de las notas.
+- Muestra la media por pantalla: *El alumno XXXX ha obtenido una nota media de YYYY*
 
 
 ### Apoyo gráfico

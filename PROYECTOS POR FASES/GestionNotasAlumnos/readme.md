@@ -40,10 +40,13 @@ Además, cuando haya mostrado todas las notas medias de cada alumno deberá info
 Una vez mostrado este mensaje el programa terminará.
 
 
-## Versión 3: mi primer array
+## Versión 3: mi primer array unidimensional
 
 
 Desarrolla un programa que haga lo mismo que en la **versión 1**, pero con el uso de arrays.
+
+![image](https://user-images.githubusercontent.com/91023374/197191979-3270f866-3dd8-4eaf-8f9d-5526d325b80d.png)
+
 
 - El array debe ser inicializado de tamaño 6 (el número de módulos de los que vamos a introducir la nota del único alumno).
 - Debes modificar la lógica del programa para introducir las notas en el array y luego acceder a ellas.
@@ -53,7 +56,7 @@ Desarrolla un programa que haga lo mismo que en la **versión 1**, pero con el u
 
 ## Versión 4
 
-![image](https://user-images.githubusercontent.com/91023374/196938736-2416bf1d-bb6c-464d-96f1-8d67370e0510.png) **Próximamente arrays bidimensionales**
+![image](https://user-images.githubusercontent.com/91023374/196938736-2416bf1d-bb6c-464d-96f1-8d67370e0510.png) **Próximamente arrays bidimensionales o tablas**
 
 ![image](https://user-images.githubusercontent.com/91023374/196938586-846c0dc3-f52a-4f26-ae75-fea580d30f20.png)
 

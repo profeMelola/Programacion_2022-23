@@ -19,7 +19,10 @@ public class Version2 {
      */
     public static void main(String[] args) {
         
-        System.out.println("*********** PROGRAMA GESTIÓN DE NOTAS : VERSIÓN 1 ******************");
+        System.out.println("*********** PROGRAMA GESTIÓN DE NOTAS : VERSIÓN 2 ******************");
+
+        /* PENDIENTE MODIFICAR SEGÚN EL ENUNCIADO 2 */
+
         System.out.println("1. Introduce el nombre del alumno: ");
         String nombre = sc.nextLine();
         

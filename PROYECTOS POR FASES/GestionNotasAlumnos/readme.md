@@ -52,9 +52,8 @@ Desarrolla un programa que haga lo mismo que en la **versión 1**, pero con el u
 
 
 ### Apoyo gráfico
-![image](https://user-images.githubusercontent.com/91023374/196938325-d4f2fe4e-43e8-47ff-a13f-242a6bbd2691.png)
 
-![image](https://user-images.githubusercontent.com/91023374/196938417-3799d968-0543-4707-ae5b-2b0819c0f663.png)
+![image](https://user-images.githubusercontent.com/91023374/196938736-2416bf1d-bb6c-464d-96f1-8d67370e0510.png) **Próximamente arrays bidimensionales**
 
 ![image](https://user-images.githubusercontent.com/91023374/196938586-846c0dc3-f52a-4f26-ae75-fea580d30f20.png)
 

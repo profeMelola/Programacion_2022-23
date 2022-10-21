@@ -22,7 +22,7 @@ Además devolverá la nota media de todos los alumnos introducidos con el fin de
 
 - Nota media menor que 5 ==> bajo
 - Nota media mayor o igual que 5 y menor que 7 ==> medio
-- Nota media mayor que 7 ==> alto
+- Nota media mayor o igual que 7 ==> alto
 
 Por cada alumno el programa pedirá:
 

@@ -27,21 +27,21 @@ En ambos casos trabajaremos con **diferentes paquetes** y pondremos en práctica
 ![image](https://user-images.githubusercontent.com/91023374/197997786-5c5e200a-7bf0-435e-a2a7-c612728ae35b.png)
 
 
-Con una nueva clase llamada **Operaciones** que va a contener solo métodos estáticos. Esta clase estará en el paquete *es.daw.util*
+Con una nueva clase llamada **Operaciones** que va a contener solo métodos estáticos. Esta clase estará en el paquete **es.daw.util**
 
 No vamos a crear objetos de ella, por tanto no se van a usar constructores.
 
 Vamos a usar sus métodos estáticos (al estilo de los métodos de la clase Math) para realizar las operaciones de sumar, restar, multiplicar, dividir y módulo (resto de una división).
 
-Además tendremos en el paquete *es.daw.util* la clase *Utilidades* donde estarán los métodos estáticos auxiliares o "útiles" para el programa.
+Además tendremos en el paquete **es.daw.util** la clase **Utilidades** donde estarán los métodos estáticos auxiliares o "útiles" para el programa.
 
 ## CalculadoraPOO: versión 2
 
 ![image](https://user-images.githubusercontent.com/91023374/197997866-a8feae2c-2313-41a5-8c81-7d2932d5233e.png)
 
-Con una nueva clase llamada Calculadora. Esta clase estará en el paquete *es.daw.model*
+Con una nueva clase llamada **Calculadora**. Esta clase estará en el paquete **es.daw.model**
 
-Vamos a crear varios objetos Calculadora diferentes y aprenderemos conceptos básicos de POO:
+Vamos a crear varios objetos Calculadora diferentes y aprenderemos **conceptos básicos de POO:**
 
 - Atributos o propiedades de una clase.
 - Constructores.

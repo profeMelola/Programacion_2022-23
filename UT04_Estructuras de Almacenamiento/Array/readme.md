@@ -13,11 +13,11 @@ Escribir una aplicación que solicite al usuario cuántos números desea introdu
 
 ## Ejercicio 3
 
-Diseñar la función *int maximo(int t[])* que devuelva el máximo valor contenido en el array t
+Diseñar la función **int maximo(int t[])** que devuelva el máximo valor contenido en el array t
 
 ## Ejercicio 4
 
-Escribir la función *int[] rellenaâres(int longitud, int fin) que crea y devuelve un array ordenado de la longitud especificada.
+Escribir la función **int[] rellenaPares(int longitud, int fin)** que crea y devuelve un array ordenado de la longitud especificada.
 
 El array se rellena con números pares aleatorios comprendidos en el rango desde 2 hasta **fin** (inclusive)
 

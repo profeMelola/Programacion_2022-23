@@ -13,6 +13,15 @@ Ahora toca hacer ese mismo programa pero en vez de programar de forma estructura
 
 Vamos a realizar dos tipos de programa Calculadora POO.
 
+En ambos casos trabajaremos con **diferentes paquetes** y pondremos en práctica el concepto de **visibilidad** cambio la visibilidad de los métodos:
+- public
+- protected
+- private
+
+
+![Captura de pantalla 2022-10-26 121250](https://user-images.githubusercontent.com/91023374/198000549-855df116-3794-40cb-a976-23860fc44bfa.jpg)
+
+
 ## CalculadoraPOO: versión 1
 
 ![image](https://user-images.githubusercontent.com/91023374/197997786-5c5e200a-7bf0-435e-a2a7-c612728ae35b.png)

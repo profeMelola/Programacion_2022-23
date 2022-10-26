@@ -8,10 +8,18 @@ https://github.com/profeMelola/Programacion_2022-23/blob/main/UT03_Estructuras_C
 
 Ahora toca hacer ese mismo programa pero en vez de programar de forma estructurada lo haremos usando el paradigma de Programación Orientada a Objetos.
 
+
 ![image](https://user-images.githubusercontent.com/91023374/197996494-e8d162ae-4a23-40e0-86be-07ae5cd0eab1.png)
 
 
-Vamos a realizar dos tipos de programa Calculadora POO.
+## Objetivo: Programación estructurada vs POO
+
+Como podréis comprobar al final de la práctica, la Calculadora Estructurada y la Calculadora POO funcionan exactamente igual, para el usuario es diferente. 
+Lo que hemos cambiado es la forma en la que hemos programado!!!!
+
+![image](https://user-images.githubusercontent.com/91023374/198002250-f92b174d-5b7d-4fa9-8504-f3d64d5b522d.png)
+
+# Vamos a realizar dos tipos de programa Calculadora POO.
 
 En ambos casos trabajaremos con **diferentes paquetes** y pondremos en práctica el concepto de **visibilidad** cambio la visibilidad de los métodos:
 - public
@@ -33,7 +41,7 @@ No vamos a crear objetos de ella, por tanto no se van a usar constructores.
 
 Vamos a usar sus métodos estáticos (al estilo de los métodos de la clase Math) para realizar las operaciones de sumar, restar, multiplicar, dividir y módulo (resto de una división).
 
-Además tendremos en el paquete **es.daw.util** la clase **Utilidades** donde estarán los métodos estáticos auxiliares o "útiles" para el programa.
+Además tendremos en el paquete **es.daw.util** la clase **Utilidades** donde estarán los métodos estáticos auxiliares o "útiles" para el programa. En nuestro caso el método para pintar el menú por consola: *public static void pintaMenu()*
 
 ## CalculadoraPOO: versión 2
 

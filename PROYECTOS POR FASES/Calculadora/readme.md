@@ -56,3 +56,6 @@ Vamos a crear varios objetos Calculadora diferentes y aprenderemos **conceptos b
 - Getters & setters.
 - Métodos de comportamiento.
 
+
+
+![Captura de pantalla 2022-10-26 124959](https://user-images.githubusercontent.com/91023374/198008117-661e67be-e7a4-43d4-83b0-0a7c1507b76c.jpg)

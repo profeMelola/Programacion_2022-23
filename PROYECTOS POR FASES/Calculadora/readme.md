@@ -1,6 +1,6 @@
-# Calculadora POO
+# Calculadora POO ![image](https://user-images.githubusercontent.com/91023374/194544336-359660e2-45bd-47d8-864c-0af2ae3cb32a.png)
 
-![image](https://user-images.githubusercontent.com/91023374/194544336-359660e2-45bd-47d8-864c-0af2ae3cb32a.png)
+
 
 Recordad que ya programamos una calculadora en la UT03 para practicar con variables numéricas, operadores, estructuras de decisión, estructuras de repetición...
 

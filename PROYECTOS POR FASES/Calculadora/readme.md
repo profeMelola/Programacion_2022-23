@@ -45,7 +45,9 @@ Además tendremos en el paquete **es.daw.util** la clase **Utilidades** donde es
 
 ## CalculadoraPOO: versión 2
 
-![image](https://user-images.githubusercontent.com/91023374/197997866-a8feae2c-2313-41a5-8c81-7d2932d5233e.png)
+![image](https://user-images.githubusercontent.com/91023374/197997866-a8feae2c-2313-41a5-8c81-7d2932d5233e.png) ![image](https://user-images.githubusercontent.com/91023374/198010644-62f5f01b-1628-445c-ba30-4703b8e190c5.png)
+ ![image](https://user-images.githubusercontent.com/91023374/198010482-1f2b096c-5abb-470b-abee-f0571e676d28.png)
+
 
 Con una nueva clase llamada **Calculadora**. Esta clase estará en el paquete **es.daw.model**
 

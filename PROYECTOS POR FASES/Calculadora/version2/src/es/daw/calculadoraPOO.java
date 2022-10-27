@@ -17,7 +17,11 @@ public class calculadoraPOO {
     // en todos los métodos de la clase
     static Scanner sc = new Scanner(System.in);
     
-    static float operando1, operando2;
+    //static float operando1, operando2;
+    
+    // Creo el objeto calculadora a nivel global para poder
+    // usarlo en el método leerOperandos
+    static Calculadora calc2 = new Calculadora("Científica");
     
     /**
      * @param args
@@ -33,7 +37,7 @@ public class calculadoraPOO {
         //calculadora1.setTipo("Estándar");
         System.out.println("Tipo calc1: "+calculadora1.getTipo());
         
-        Calculadora calc2 = new Calculadora("Científica");
+        //Calculadora calc2 = new Calculadora("Científica");
         System.out.println("Tipo calc2: "+calc2.getTipo());
         
         
@@ -53,6 +57,9 @@ public class calculadoraPOO {
 
                 // Leer operandos
                 leerOperandos();
+                
+                //calc2.setOperando1(operando1);
+                //calc2.setOperando2(operando2);
 
                 System.out.println("\n");
                 switch (opcion) {
@@ -69,7 +76,8 @@ public class calculadoraPOO {
                         System.out.println("El resultado de la división es " + calc2.dividir());
                         break;
                     case 5: //Resto
-                        System.out.println("El resto de dividir " + operando1 + " entre " + operando2 + " es " + calc2.resto());
+                        //System.out.println("El resto de dividir " + operando1 + " entre " + operando2 + " es " + calc2.resto());
+                        System.out.println("El resto de dividir " + calc2.getOperando1() + " entre " + calc2.getOperando2() + " es " + calc2.resto());
                         break;
                     default:
                         System.out.println("Opción no válida. Vuelva a escoger");
@@ -97,11 +105,14 @@ public class calculadoraPOO {
 
         System.out.print("Introduzca el primer operando: ");
         //operando1 = Float.parseFloat(sc.nextLine());
-        operando1 = sc.nextFloat();
-
+        //operando1 = sc.nextFloat();
+        
+        calc2.setOperando1(sc.nextFloat());
+        
         System.out.print("Introduzca el segundo operando: ");
         //operando2 = Float.parseFloat(sc.nextLine());
-        operando2 = sc.nextFloat();
+        //operando2 = sc.nextFloat();
+        calc2.setOperando2(sc.nextFloat());
         
     }
     

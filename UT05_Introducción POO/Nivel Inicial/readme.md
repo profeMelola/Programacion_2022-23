@@ -1,5 +1,7 @@
 # Ejercicios POO de nivel inicial. Personas
 
+![image](https://user-images.githubusercontent.com/91023374/198572343-bd7162b2-2420-4b7a-8760-3284a5dda01a.png)
+
 ## Personas v1: con constructor por defecto
 
 Crea un programa con una clase llamada Persona que representará los datos principales de una persona: dni, nombre, apellidos y edad.

@@ -17,7 +17,14 @@ Diseñar la función **int maximo(int t[])** que devuelva el máximo valor conte
 
 ## Ejercicio 4
 
-Escribir la función **int[] rellenaPares(int longitud, int fin)** que crea y devuelve un array ordenado de la longitud especificada.
+Escribir la función **int[] rellenaPares(int longitud, int fin)** que crea y devuelve un array ordenado de la longitud especificada. Para ordenar usaremos el método sort de la clase Arrays (Arrays.sort)
 
 El array se rellena con números pares aleatorios comprendidos en el rango desde 2 hasta **fin** (inclusive)
+
+### Algoritmos de ordenación
+
+**Intercambio:** consiste en comparar el primer valor con el resto de las posiciones posteriores, cambiando el valor de las posiciones en caso de que el segundo sea menor que el primero comparado, después la segunda posición con el resto de posiciones posteriores.
+
+![image](https://user-images.githubusercontent.com/91023374/199508163-581e8cb8-6f02-4c8f-9ade-5f9c174eabef.png)
+
 

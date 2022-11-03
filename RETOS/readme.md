@@ -70,9 +70,14 @@ Después preguntaremos al usuario cuál es la palabra resultado y hasta que no l
 
 Debes utilizar una clase auxiliar llamada **es.daw.adivinapalabra.util.Utilidades** con los métodos que consideres oportunos.
 
-Tu programa principal quería así:
+**Tu programa principal quería así:**
 
 ![Captura de pantalla 2022-11-03 171712](https://user-images.githubusercontent.com/91023374/199775601-09cd2450-599f-4c9a-a82f-d8971a8d4fe6.jpg)
+
+
+**Ejemplo de ejecución del programa:**
+
+![Captura de pantalla de 2022-10-25 21-26-40](https://user-images.githubusercontent.com/91023374/199809192-a87da978-c4b1-4a32-ae7c-fcf30a2e2e63.png)
 
 
 ### Tienes 25 minutos para completarlo!!!

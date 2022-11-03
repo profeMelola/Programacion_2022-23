@@ -60,14 +60,23 @@ Este ejercicio trata de recibir un número de dos cifras, por ejemplo 45, y debe
 
 ## Reto 6: adivina palabra (Reto6.java)
 
-Escribe un programa que pida al usuario 5 palabras. La clase principal ejecutable se llamará *es.daw.adivinapalabra.Reto6*
+Escribe un programa que pida al usuario 5 palabras. La clase principal ejecutable se llamará **es.daw.adivinapalabra.Reto6**
 
-Con la primera letra de cada palabra construiremos una nueva palabra.
+Usa un método para ello y que devuelva un array con las 5 palabras.
 
-Después preguntaremos al usuario cuál es la palabra resultado y hasta que no la escriba correctamente (ignorando may y min) seguiremos preguntando.
+Usa otro método que reciba dicho array y devuelva una nueva palabra construida con la primera letra de cada palabras del array.
 
-Debes utilizar una clase auxiliar llamada *es.daw.adivinapalabra.util.Utilidades* con los métodos que consideres oportunos.
+Después preguntaremos al usuario cuál es la palabra resultado y hasta que no la escriba correctamente (ignorando may y min) seguiremos preguntando. Para ello usa otro método que recibe la palabra nueva que el usuario debe adivinar.
 
-Tienes .....
- 
+Debes utilizar una clase auxiliar llamada **es.daw.adivinapalabra.util.Utilidades** con los métodos que consideres oportunos.
+
+Tu programa principal quería así:
+
+![Captura de pantalla 2022-11-03 171712](https://user-images.githubusercontent.com/91023374/199775601-09cd2450-599f-4c9a-a82f-d8971a8d4fe6.jpg)
+
+
+### Tienes 30 minutos para completarlo!!!
+
+![image](https://user-images.githubusercontent.com/91023374/199775751-c57cb526-5770-41ea-beb4-680d7415972d.png)
+
  

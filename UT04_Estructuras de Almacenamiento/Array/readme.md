@@ -17,6 +17,16 @@ Diseñar la función **int maximo(int t[])** que devuelva el máximo valor conte
 
 ## Ejercicio 4
 
+Tenemos una colección de palabras: "uno", "dos" y "tres". 
+
+Por consola pediremos al usuario que intente adivinar alguna de las tres.  Por lo tanto introducirá una palabra. 
+
+Si es una de las tres de nuestra colección, el programa le mostrará el mensaje: 
+
+**"HAS ACERTADO!!!"**
+
+## Ejercicio 5
+
 Escribir la función **int[] rellenaPares(int longitud, int fin)** que crea y devuelve un array ordenado de la longitud especificada. Para ordenar usaremos el método sort de la clase Arrays (Arrays.sort)
 
 El array se rellena con números pares aleatorios comprendidos en el rango desde 2 hasta **fin** (inclusive)

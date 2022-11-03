@@ -75,7 +75,7 @@ Tu programa principal quería así:
 ![Captura de pantalla 2022-11-03 171712](https://user-images.githubusercontent.com/91023374/199775601-09cd2450-599f-4c9a-a82f-d8971a8d4fe6.jpg)
 
 
-### Tienes 30 minutos para completarlo!!!
+### Tienes 25 minutos para completarlo!!!
 
 ![image](https://user-images.githubusercontent.com/91023374/199775751-c57cb526-5770-41ea-beb4-680d7415972d.png)
 

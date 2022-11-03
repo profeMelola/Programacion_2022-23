@@ -77,7 +77,7 @@ Debes utilizar una clase auxiliar llamada **es.daw.adivinapalabra.util.Utilidade
 
 **Ejemplo de ejecución del programa:**
 
-![Captura de pantalla de 2022-10-25 21-26-40](https://user-images.githubusercontent.com/91023374/199809192-a87da978-c4b1-4a32-ae7c-fcf30a2e2e63.png)
+![Captura de pantalla de 2022-11-03 19-50-38](https://user-images.githubusercontent.com/91023374/199809258-7a28c88c-616c-4fc5-a909-85242886431c.png)
 
 
 ### Tienes 25 minutos para completarlo!!!

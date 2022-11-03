@@ -57,3 +57,17 @@ Lo vamos a realizar sin utilizar String ni funciones específicas de manejo de c
 **Solo vamos a utilizar operaciones aritméticas!!!!!**
 
 Este ejercicio trata de recibir un número de dos cifras, por ejemplo 45, y debemos devolver por pantalla su inverso, 54.
+
+## Reto 6: adivina palabra (Reto6.java)
+
+Escribe un programa que pida al usuario 5 palabras. La clase principal ejecutable se llamará *es.daw.adivinapalabra.Reto6*
+
+Con la primera letra de cada palabra construiremos una nueva palabra.
+
+Después preguntaremos al usuario cuál es la palabra resultado y hasta que no la escriba correctamente (ignorando may y min) seguiremos preguntando.
+
+Debes utilizar una clase auxiliar llamada *es.daw.adivinapalabra.util.Utilidades* con los métodos que consideres oportunos.
+
+Tienes .....
+ 
+ 

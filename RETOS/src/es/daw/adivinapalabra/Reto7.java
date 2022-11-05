@@ -1,5 +1,5 @@
 /*
- * https://github.com/profeMelola/Programacion_2022-23/blob/main/RETOS/readme.md#reto-6-adivina-palabra-reto6java
+ * https://github.com/profeMelola/Programacion_2022-23/blob/main/RETOS/readme.md#reto-7-adivina-palabra-reto7java
  */
 package es.daw.adivinapalabra;
 
@@ -12,7 +12,7 @@ import java.util.Arrays;
  *
  * @author melol
  */
-public class Reto6 {
+public class Reto7 {
 
     /**
      * @param args the command line arguments

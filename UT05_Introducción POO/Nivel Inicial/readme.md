@@ -6,6 +6,8 @@
 
 Crea un programa con una clase llamada Persona que representará los datos principales de una persona: dni, nombre, apellidos y edad.
 
+Estos atributos serán públicos.
+
 En el main de la clase principal instancia dos objetos de la clase Persona. 
 
 Luego, pide por teclado los datos de ambas personas (guárdalos en los objetos). 
@@ -39,6 +41,9 @@ public Persona(String dni, String nombre, String apellidos, int edad) {
 ## Personas v3: con getters and setters
 
 ![image](https://user-images.githubusercontent.com/91023374/198569700-b627b130-b774-4abd-baaa-ad9336792c24.png)
+
+![image](https://user-images.githubusercontent.com/91023374/200127840-12640f0e-5186-4d4d-b460-6f6c2c42b4d2.png)
+
 
 Aplica el encapsulamiento básico a la clase Persona: 
 

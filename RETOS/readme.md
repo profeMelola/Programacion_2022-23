@@ -58,7 +58,8 @@ Lo vamos a realizar sin utilizar String ni funciones específicas de manejo de c
 
 Este ejercicio trata de recibir un número de dos cifras, por ejemplo 45, y debemos devolver por pantalla su inverso, 54.
 
-## Reto 6: adivina palabra (Reto6.java)
+## Reto 7: adivina palabra (Reto7.java) 
+### NOTA: En clase lo hicimos como Reto6 porque no me di cuenta que ya había un reto 6. Este es el Reto7
 
 Escribe un programa que pida al usuario 5 palabras. La clase principal ejecutable se llamará **es.daw.adivinapalabra.Reto6**
 

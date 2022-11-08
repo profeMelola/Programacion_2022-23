@@ -1,4 +1,4 @@
-# Juego del ahorcado
+# PRÁCTICA GUIADA: Juego del ahorcado
 
 Realizar el juego del ahorcado.
 

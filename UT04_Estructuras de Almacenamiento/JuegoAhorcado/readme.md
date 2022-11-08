@@ -17,7 +17,7 @@ Si el usuario acierta alguna de las letras de la palabra, su correspondiente gui
 
 ## Versión 1: sin uso métodos auxiliares
 
-Puedes usar estos métodos:
+Puedes usar solo estos métodos:
 
 ![image](https://user-images.githubusercontent.com/91023374/200561884-f58a9c2f-0180-4553-96e4-379ac7e54f50.png)
 

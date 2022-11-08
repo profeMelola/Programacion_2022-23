@@ -17,12 +17,12 @@ public class PersonasPOO {
     public static void main(String[] args) {
 
         //pruebaPOO1(); //v1 (todo público, constructor por defecto)
+        
         //v2
-        Persona p1 = new Persona("5555555F", "Pepe", "López Vega", 28);
+        Persona p1 = new Persona("1111111F", "Pepe", "López Vega", 67);
         Persona p2 = new Persona("5555555F", "Ana", "López Vega", 14);
                
         Persona p3 = new Persona("8888888V");
-
         p3.setNombre("Rodrigo");
         p3.setApellidos("Encabo");
         p3.setEdad(18);
@@ -30,6 +30,40 @@ public class PersonasPOO {
         System.out.println("Persona 1:" + p1.toString());
         System.out.println("Persona 2:" + p2.toString());
         System.out.println("Persona 3:" + p3);
+        
+        System.out.println("Diferencia de edad entre p3 y p1: "+p3.diferenciaEdad(p1));
+        System.out.println("Diferencia de edad entre p1 y p3: "+p1.diferenciaEdad(p3));
+        System.out.println("Diferencia de edad entre p1 y p2: "+p1.diferenciaEdad(p2));
+        
+        System.out.println("Es mayor de edad p1?"+p1.esMayorEdad());
+        System.out.println("Es mayor de edad p2?"+p2.esMayorEdad());
+        System.out.println("¿Es jubilado p1? "+p1.esJubilado());
+        
+        //Vamos a modificar el DNI de p1
+        /*System.out.println("DNI p1 antiguo: "+p1.getDni());
+        p1.setDni("66666666V");
+        System.out.println("DNI p1 nuevo: "+p1.getDni());*/
+        
+        //p1.dni = "kkkkk";
+        
+        
+        // METER CADA OBJETO PERSONA COMO UN ELEMENTO DE UN ARRAY
+        // EL TAMAÑO DEL ARRAY VA A SER FIJO A 3
+        
+        Persona[] personas = new Persona[3];
+        personas[0] = p1;
+        personas[1] = p2;
+        personas[2] = p3;
+        
+        System.out.println("*********** INFO PERSONAS!!!! ************");
+        int cont = 1;
+        for(Persona p: personas){
+            System.out.println("Info de la persona <"+cont+">:"+p.toString());
+            cont++;
+        }
+                
+        
+        
 
     }
 

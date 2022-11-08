@@ -54,7 +54,51 @@ Desarrolla un programa que haga lo mismo que en la **versión 1**, pero con el u
 - Muestra la media por pantalla: *El alumno XXXX ha obtenido una nota media de YYYY*
 
 
-## Versión 4
+## Versión 4: array de notas + clase Alumno + array de alumnos
+
+### Clase Alumno
+
+**Atributos**
+
+Definida por:
+
+- Nombre alumno
+- Código alumno (NIA)
+- Las 6 notas de los 6 módulos del alumno (array)
+
+**Constructor**
+
+Un alumno se dará de alta en el programa por su nombre y su NIA.
+
+**Métodos setter/getter**
+
+El NIA no podrá modificarse en ningún momento una vez creado el alumno.
+
+Las notas del alumno se guardarán a través de su correspondiente método set.
+
+**Métodos propios o de comportamiento**
+
+Tendrá un método que calcula la nota media final del alumno.
+
+### Clase ejecutable principal
+
+1. El programa debe preguntar de **cuántos alumnos se van a gestionar las notas.**
+
+2. Después **por cada alumno** debe preguntar:
+ - el nombre del alumno.
+ - las 6 notas y guardarlas en su correspondiente array.
+ 
+3. Con esa información debe **dar de alta el alumno en el sistema** (instanciar la clase Alumno para crear el objeto en cuestión).
+
+4. Cada objeto alumno debe guardarse en un **array de alumnos**.
+
+![image](https://user-images.githubusercontent.com/91023374/200559282-a7e08ffc-3651-4d35-9ba9-95912b5f9b52.png) ![image](https://user-images.githubusercontent.com/91023374/200559283-326d00f7-6a81-447f-ace7-40324f6449c2.png) ![image](https://user-images.githubusercontent.com/91023374/200559295-220178dc-ca1f-4121-9fcc-6d528218d358.png)
+
+
+
+5. Finalmente **por cada alumno se debe mostrar por consola su nota media del curso.**
+
+## Versión 5: con arrays multidimensionales
 
 ![image](https://user-images.githubusercontent.com/91023374/196938736-2416bf1d-bb6c-464d-96f1-8d67370e0510.png) **Próximamente arrays bidimensionales o tablas**
 

@@ -56,6 +56,8 @@ Desarrolla un programa que haga lo mismo que en la **versión 1**, pero con el u
 
 ## Versión 4: array de notas + clase Alumno + array de alumnos
 
+![image](https://user-images.githubusercontent.com/91023374/200559282-a7e08ffc-3651-4d35-9ba9-95912b5f9b52.png) ![image](https://user-images.githubusercontent.com/91023374/200559283-326d00f7-6a81-447f-ace7-40324f6449c2.png) ![image](https://user-images.githubusercontent.com/91023374/200559295-220178dc-ca1f-4121-9fcc-6d528218d358.png)
+
 ### Clase Alumno
 
 **Atributos**
@@ -91,9 +93,6 @@ Tendrá un método que calcula la nota media final del alumno.
 3. Con esa información debe **dar de alta el alumno en el sistema** (instanciar la clase Alumno para crear el objeto en cuestión).
 
 4. Cada objeto alumno debe guardarse en un **array de alumnos**.
-
-![image](https://user-images.githubusercontent.com/91023374/200559282-a7e08ffc-3651-4d35-9ba9-95912b5f9b52.png) ![image](https://user-images.githubusercontent.com/91023374/200559283-326d00f7-6a81-447f-ace7-40324f6449c2.png) ![image](https://user-images.githubusercontent.com/91023374/200559295-220178dc-ca1f-4121-9fcc-6d528218d358.png)
-
 
 
 5. Finalmente **por cada alumno se debe mostrar por consola su nota media del curso.**

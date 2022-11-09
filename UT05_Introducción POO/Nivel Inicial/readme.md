@@ -84,14 +84,5 @@ Tendrás que inicializarlo a 18 en la declaración.
 Utilízalo en el método que comprueba si una persona es mayor de edad.
 
 
-**Crea un método static boolean validarDNI(String dni)** que devuelva true si dni es válido (tiene 8números y una letra). Si no, devolverá false. 
-
-Utilízalo en el constructor para comprobar el dni (si no es válido, muestra un mensaje de error y no guardes los valores).
-
-
-**Realiza algunas pruebas en el main para comprobar el funcionamiento de los cambios realizados.**
-
-También puedes utilizar Persona.validarDNI(…) por ejemplo para comprobar si unos DNI introducidos por teclado son válidos o no (sin necesidad de crear ningún objeto).
-
 
 

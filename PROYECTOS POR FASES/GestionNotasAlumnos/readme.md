@@ -101,28 +101,22 @@ Tendrá un método que calcula la nota media final del alumno.
 1. **MÉTODOS AUXILIARES:** La lógica para cargar los datos de alumnos y mostrar la media de cada uno de ellos debemos de sacarla a dos métodos estáticos en la clase Utilidades
 2. **MENÚ:** En otro método debemos implementar un menú con las siguienes opciones:
 
-<code>
+
 1. Cargar datos de alumnos
 
-<code>
 2. INFORMES
 
-<code>
 3. Salir
 
 
 Al seleccionar la opción 2 debe de salir otro menú indicando:
 
-<code>
 1. Mostrar nota media de todos los alumnos
 
-<code>
 2. Mostrar nota media de toda la clase
 
-<code>
 3. Mostrar información de todos los alumnos
 
-<code>
 4. Volver al menú principal
 
 

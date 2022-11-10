@@ -94,8 +94,52 @@ Tendrá un método que calcula la nota media final del alumno.
 
 4. Cada objeto alumno debe guardarse en un **array de alumnos**.
 
-
 5. Finalmente **por cada alumno se debe mostrar por consola su nota media del curso.**
+
+##  Versión 4.1: mejoras!!!!
+
+1. **MÉTODOS AUXILIARES:** La lógica para cargar los datos de alumnos y mostrar la media de cada uno de ellos debemos de sacarla a dos métodos estáticos en la clase Utilidades
+2. **MENÚ:** En otro método debemos implementar un menú con las siguienes opciones:
+
+<code>
+1. Cargar datos de alumnos
+
+<code>
+2. INFORMES
+
+<code>
+3. Salir
+
+
+Al seleccionar la opción 2 debe de salir otro menú indicando:
+
+<code>
+1. Mostrar nota media de todos los alumnos
+
+<code>
+2. Mostrar nota media de toda la clase
+
+<code>
+3. Mostrar información de todos los alumnos
+
+<code>
+4. Volver al menú principal
+
+
+Por tanto debemos programar adecuadamente el menú en sus métodos correspondientes.
+
+Además debemos:
+
+- Añadir un atributo nuevo a la clase Alumno para guardar su notaMedia.
+- Programar el método que calcule la nota media de toda la clase.
+
+Por último, vamos a aplicar otra mejora!!!!! Vamos a usar JOptionPane para pedir al profesor el número de alumnos que va a gestionar:
+
+![image](https://user-images.githubusercontent.com/91023374/201052528-b7278b3d-5df6-4385-a0cd-73ebc2327767.png)
+
+
+Para más información de cómo usarlo https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/mod/page/view.php?id=58115
+
 
 ## Versión 5: con arrays multidimensionales
 

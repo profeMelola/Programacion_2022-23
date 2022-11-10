@@ -98,8 +98,8 @@ Tendrá un método que calcula la nota media final del alumno.
 
 ##  Versión 4.1: mejoras!!!!
 
-1. **MÉTODOS AUXILIARES:** La lógica para cargar los datos de alumnos y mostrar la media de cada uno de ellos debemos de sacarla a dos métodos estáticos en la clase Utilidades
-2. **MENÚ:** En otro método debemos implementar un menú con las siguienes opciones:
+- **MÉTODOS AUXILIARES:** La lógica para cargar los datos de alumnos y mostrar la media de cada uno de ellos debemos de sacarla a dos métodos estáticos en la clase Utilidades
+- **MENÚ:** En otro método debemos implementar un menú con las siguienes opciones:
 
 
 1. Cargar datos de alumnos
@@ -127,7 +127,7 @@ Además debemos:
 - Añadir un atributo nuevo a la clase Alumno para guardar su notaMedia.
 - Programar el método que calcule la nota media de toda la clase.
 
-Por último, vamos a aplicar otra mejora!!!!! Vamos a usar JOptionPane para pedir al profesor el número de alumnos que va a gestionar:
+**Por último, vamos a aplicar otra mejora!!!!!** Vamos a usar JOptionPane para pedir al profesor el número de alumnos que va a gestionar:
 
 ![image](https://user-images.githubusercontent.com/91023374/201052528-b7278b3d-5df6-4385-a0cd-73ebc2327767.png)
 

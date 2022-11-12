@@ -10,7 +10,7 @@ import java.util.Random;
  *
  * @author melola
  */
-public class Ejercicio5_2 {
+public class Ejercicio5 {
 
     /**
      * @param args the command line arguments
@@ -51,6 +51,9 @@ public class Ejercicio5_2 {
         
     }
     
+    /*
+     * Algoritmo de ordenación por intercambio
+     */
     public static void ordenarAscendente(int[] numeros){
         // Recorremos el array desde la primera posición hasta la penúltima
         for (int i=0; i < (numeros.length - 1);i++){

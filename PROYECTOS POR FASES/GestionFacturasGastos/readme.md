@@ -9,15 +9,69 @@ Repasa lo que hicimos en este ejercicio:
 
 https://github.com/profeMelola/Programacion_2022-23/tree/main/UT03_Estructuras_Control/BUCLES/Bucles_Anidados/FacturasGastos
 
-# Versión 2: con array bidimensional
-
-## Regular
+## Versión 2: con array bidimensional
 
 Vamos a programar la misma lógica pero guardando el importe de los gastos de cada factura en un array de 2 dimensiones
 
 ![image](https://user-images.githubusercontent.com/91023374/201478297-2c2a075f-7439-4a26-bdab-23e44166d373.png)
 
-## Irregular
+
+### Matriz regular: mismo número de gastos por factura
+
+1. Manteniendo el enunciado del programa (versión 1), debes modificar la lógica del mismo para trabajar con un array bidimensional (matriz)
+3. Para ello ten en cuenta que :
+- Necesitas crear un array de N filas (donde N es el número de facturas) y M columnas (donde M es el número de gastos por factura).
+- El número de facturas (N) las indicará el usuario y que el número de gastos por factura ( el mismo para cada factura ) también lo introducirá el usuario 
+
+3. Métodos nuevos que debes implementar:
+
+**imprimeFacturas**
+
+Este método debe mostrar por pantalla el contenido del array bidimensional
+
+
+**obtenerImporteTotalGastosFactura**
+
+Este método debe devolver el importe total de gastos de una factura concreta
+
+**obtenerImporteTotalFacturas**
+
+Este método debe devolver el importe total de gastos de todas las facturas
+
+
+**Ayuda teórica. Repaso de conceptos**
+
+![image](https://user-images.githubusercontent.com/91023374/137719700-dabd81f2-f023-4302-b5d5-00d2602ecb81.png)
+
+
+### Matriz irregular: distinto número de gastos por factura
 
 ![image](https://user-images.githubusercontent.com/91023374/201478366-a46423cc-5867-4f3f-9aed-594b3f84fb0a.png)
+
+Ahora el número de gastos por factura puede ser distinto.
+
+Recuerda que el número de facturas (N) las indicará el usuario y que el número de gastos por factura es variable (M) y también lo introducirá el usuario.
+
+
+**REPASO TEORÍA: Declaración de un array bidimensional irregular**
+
+// Cuando se sepa el número de facturas. Declaración del array bidimensiona
+
+float[][] facturas = new float[numFacturas][];
+
+// Todavía no se sabe el  número de gastos por factura
+
+float[] gastos = null;
+
+// Cuando se sepa el número de gastos por factura
+
+gastos = new float[numGastos];
+
+facturas[indice] = gastos; //inicializando cada posición del array de facturas con otro array.
+
+#### Ejemplo de salida por consola tras la ejecución del programa
+
+![image](https://user-images.githubusercontent.com/91023374/137726338-07b443a4-0d3d-4a28-adea-093e46aa3d4a.png)
+
+
 

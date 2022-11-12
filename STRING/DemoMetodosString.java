@@ -62,6 +62,12 @@ class DemoMetodosString
         out = "Java".equalsIgnoreCase("jaVA ");
         System.out.println("Comprobando la igualdad: " + out);
 
+        /*
+        Si lo que queremos es comparar cadenas para ordenarlas, una opción es usar el método compareTo() de la clase String. 
+        Este método devuelve 0 si ambas cadenas tienen el mismo contenido, negativo si el String es menor -va antes alfabéticamente- 
+        que el parámetro que se le pasa y positivo si es mayor
+        EL MÉTODO compareTo SE VERÁ CON DETALLE EN LA 2º EV
+        */
         int out1 = s1.compareTo(s2);
         System.out.println("Si s1 = s2: " + out);
 

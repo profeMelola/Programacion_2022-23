@@ -39,7 +39,7 @@ Este método debe devolver el importe total de gastos de una factura concreta
 Este método debe devolver el importe total de gastos de todas las facturas
 
 
-**Ayuda teórica. Repaso de conceptos**
+**AYUDA TEÓRICA: REPASO DE CONCEPTOS**
 
 ![image](https://user-images.githubusercontent.com/91023374/137719700-dabd81f2-f023-4302-b5d5-00d2602ecb81.png)
 

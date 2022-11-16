@@ -19,10 +19,9 @@ Vamos a programar la misma lógica pero guardando el importe de los gastos de ca
 ### Matriz regular: mismo número de gastos por factura
 
 1. Manteniendo el enunciado del programa (versión 1), debes modificar la lógica del mismo para trabajar con un array bidimensional (matriz)
-3. Para ello ten en cuenta que :
+2. Para ello ten en cuenta que :
 - Necesitas crear un array de N filas (donde N es el número de facturas) y M columnas (donde M es el número de gastos por factura).
 - El número de facturas (N) las indicará el usuario y el número de gastos por factura ( M, el mismo para cada factura ) también lo introducirá el usuario 
-
 3. Métodos nuevos que debes implementar:
 
 **imprimeFacturas**
@@ -61,7 +60,7 @@ float[][] facturas = new float[numFacturas][];
 
 // Todavía no se sabe el  número de gastos por factura
 
-float[] gastos = null;
+float[] gastos = null; //no sería necesario inicializarlo a null porque por defecto se inicializa a null
 
 // Cuando se sepa el número de gastos por factura
 

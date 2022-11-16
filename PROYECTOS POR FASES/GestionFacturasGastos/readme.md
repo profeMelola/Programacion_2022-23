@@ -21,7 +21,7 @@ Vamos a programar la misma lógica pero guardando el importe de los gastos de ca
 1. Manteniendo el enunciado del programa (versión 1), debes modificar la lógica del mismo para trabajar con un array bidimensional (matriz)
 3. Para ello ten en cuenta que :
 - Necesitas crear un array de N filas (donde N es el número de facturas) y M columnas (donde M es el número de gastos por factura).
-- El número de facturas (N) las indicará el usuario y que el número de gastos por factura ( el mismo para cada factura ) también lo introducirá el usuario 
+- El número de facturas (N) las indicará el usuario y el número de gastos por factura ( M, el mismo para cada factura ) también lo introducirá el usuario 
 
 3. Métodos nuevos que debes implementar:
 

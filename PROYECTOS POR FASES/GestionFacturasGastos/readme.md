@@ -16,7 +16,7 @@ Vamos a programar la misma lógica pero guardando el importe de los gastos de ca
 ![image](https://user-images.githubusercontent.com/91023374/201478297-2c2a075f-7439-4a26-bdab-23e44166d373.png)
 
 
-### Matriz regular: mismo número de gastos por factura
+### Versión 2.1: Matriz regular: mismo número de gastos por factura
 
 1. Manteniendo el enunciado del programa (versión 1), debes modificar la lógica del mismo para trabajar con un array bidimensional (matriz)
 2. Para ello ten en cuenta que :
@@ -43,13 +43,18 @@ Este método debe devolver el importe total de gastos de todas las facturas
 ![image](https://user-images.githubusercontent.com/91023374/137719700-dabd81f2-f023-4302-b5d5-00d2602ecb81.png)
 
 
-### Matriz irregular: distinto número de gastos por factura
+### Versión 2.2: Matriz irregular: distinto número de gastos por factura
 
 ![image](https://user-images.githubusercontent.com/91023374/201478366-a46423cc-5867-4f3f-9aed-594b3f84fb0a.png)
 
 Ahora el número de gastos por factura puede ser distinto.
 
 Recuerda que el número de facturas (N) las indicará el usuario y que el número de gastos por factura es variable (M) y también lo introducirá el usuario.
+
+****** MENÚ CON DIFERENTES OPCIONES ******
+1. INFORME COMPLETO: Obtener informe con los gastos de cada factura, el importe final de la factura y el imorte total de todas las facturas
+2. INFORME FACTURA: Obtener información de todos los gastos de una factura en contrecto (que especificará el usuario por número), ordenados de mayora a menor indicando el número de gastos totales y el importe total.
+3. BUSCAR GASTO: Obtener información de la factura o facturas donde se encuentra el importe de un gasto en concreto que especificará el usuario.
 
 
 **REPASO TEORÍA: Declaración de un array bidimensional irregular**

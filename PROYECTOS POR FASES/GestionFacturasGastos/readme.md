@@ -80,83 +80,15 @@ facturas[indice] = gastos; //inicializando cada posición del array de facturas 
 
 #### Ejemplo de salida por consola tras la ejecución del programa
 
-run:
-* Indica el número de gastos de la factura <1>
-3
-* Indica el número de gastos de la factura <2>
-2
-* Introduce los gastos de la factura <1>
-	* Gasto <1> :
-100
-	* Gasto <2> :
-35
-	* Gasto <3> :
-25,5
-* Introduce los gastos de la factura <2>
-	* Gasto <1> :
-50
-	* Gasto <2> :
-15
-**** MENÚ ****
-1. Informe completo
-2. Informe factura
-3. Buscar gasto
-4. Salir
-Elige una opción: 
-1
-	Factura (1): 
-	Gasto (1): 100.0
-	Gasto (2): 35.0
-	Gasto (3): 25.5
-Factura 1, total importe: 160.5 euros.
-	Factura (2): 
-	Gasto (1): 50.0
-	Gasto (2): 15.0
-Factura 2, total importe: 65.0 euros.
-Importe total: 225.5 euros.
-**** MENÚ ****
-1. Informe completo
-2. Informe factura
-3. Buscar gasto
-4. Salir
-Elige una opción: 
-2
-	Indica el número de factura:
-1
-Gastos ordenados de mayor a menor:
-100.0 euros.
-35.0 euros.
-25.5 euros.
-Factura 1: número totales de gastos <3>. Importe total de la factura <160 euros>
-**** MENÚ ****
-1. Informe completo
-2. Informe factura
-3. Buscar gasto
-4. Salir
-Elige una opción: 
-3
-	Indica el importe del gasto que quieres buscar:
-100
-El gasto con importe de 100.0 euros se encuentra en la Factura < 1 >
-**** MENÚ ****
-1. Informe completo
-2. Informe factura
-3. Buscar gasto
-4. Salir
-Elige una opción: 
-3
-	Indica el importe del gasto que quieres buscar:
-43
-No se encuentra ningún gasto con importe de 43.0 euros.
-**** MENÚ ****
-1. Informe completo
-2. Informe factura
-3. Buscar gasto
-4. Salir
-Elige una opción: 
-4
-Vas a salir del programa
-BUILD SUCCESSFUL (total time: 1 minute 3 seconds)
+![Captura de pantalla de 2022-11-18 17-46-53](https://user-images.githubusercontent.com/91023374/202758101-a1c200cf-e12e-41b2-a6a2-66336b47a971.png)
+
+![Captura de pantalla de 2022-11-18 17-47-05](https://user-images.githubusercontent.com/91023374/202758123-3704bd72-7fa0-45b1-8a8f-e14c23b26738.png)
+
+![Captura de pantalla de 2022-11-18 17-47-17](https://user-images.githubusercontent.com/91023374/202758141-07a1d627-7487-48e6-a05c-3acb94964c03.png)
+
+![Captura de pantalla de 2022-11-18 17-47-30](https://user-images.githubusercontent.com/91023374/202758170-824c28d5-7f60-4f3a-9097-c4b177ff89fe.png)
+
+![Captura de pantalla de 2022-11-18 17-47-45](https://user-images.githubusercontent.com/91023374/202758188-3ca498fc-d77c-4ec1-bef0-002d90fc486c.png)
 
 
 

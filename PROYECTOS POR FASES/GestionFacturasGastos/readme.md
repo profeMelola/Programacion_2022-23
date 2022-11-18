@@ -38,10 +38,6 @@ Este método debe devolver el importe total de gastos de una factura concreta
 Este método debe devolver el importe total de gastos de todas las facturas
 
 
-**AYUDA TEÓRICA: REPASO DE CONCEPTOS**
-
-![image](https://user-images.githubusercontent.com/91023374/137719700-dabd81f2-f023-4302-b5d5-00d2602ecb81.png)
-
 
 ### Versión 2.2: Matriz irregular: distinto número de gastos por factura
 
@@ -60,6 +56,23 @@ Recuerda que el número de facturas (N) las indicará el usuario y que el númer
 ****************************************
 
 
+#### Ejemplo de salida por consola tras la ejecución del programa
+
+![Captura de pantalla de 2022-11-18 17-46-53](https://user-images.githubusercontent.com/91023374/202758101-a1c200cf-e12e-41b2-a6a2-66336b47a971.png)
+
+![Captura de pantalla de 2022-11-18 17-47-05](https://user-images.githubusercontent.com/91023374/202758123-3704bd72-7fa0-45b1-8a8f-e14c23b26738.png)
+
+![Captura de pantalla de 2022-11-18 17-47-17](https://user-images.githubusercontent.com/91023374/202758141-07a1d627-7487-48e6-a05c-3acb94964c03.png)
+
+![Captura de pantalla de 2022-11-18 17-47-30](https://user-images.githubusercontent.com/91023374/202758170-824c28d5-7f60-4f3a-9097-c4b177ff89fe.png)
+
+![Captura de pantalla de 2022-11-18 17-47-45](https://user-images.githubusercontent.com/91023374/202758188-3ca498fc-d77c-4ec1-bef0-002d90fc486c.png)
+
+
+**AYUDA TEÓRICA: REPASO DE CONCEPTOS**
+
+![image](https://user-images.githubusercontent.com/91023374/137719700-dabd81f2-f023-4302-b5d5-00d2602ecb81.png)
+
 
 **REPASO TEORÍA: Declaración de un array bidimensional irregular**
 
@@ -76,20 +89,4 @@ float[] gastos = null; //no sería necesario inicializarlo a null porque por def
 gastos = new float[numGastos];
 
 facturas[indice] = gastos; //inicializando cada posición del array de facturas con otro array.
-
-
-#### Ejemplo de salida por consola tras la ejecución del programa
-
-![Captura de pantalla de 2022-11-18 17-46-53](https://user-images.githubusercontent.com/91023374/202758101-a1c200cf-e12e-41b2-a6a2-66336b47a971.png)
-
-![Captura de pantalla de 2022-11-18 17-47-05](https://user-images.githubusercontent.com/91023374/202758123-3704bd72-7fa0-45b1-8a8f-e14c23b26738.png)
-
-![Captura de pantalla de 2022-11-18 17-47-17](https://user-images.githubusercontent.com/91023374/202758141-07a1d627-7487-48e6-a05c-3acb94964c03.png)
-
-![Captura de pantalla de 2022-11-18 17-47-30](https://user-images.githubusercontent.com/91023374/202758170-824c28d5-7f60-4f3a-9097-c4b177ff89fe.png)
-
-![Captura de pantalla de 2022-11-18 17-47-45](https://user-images.githubusercontent.com/91023374/202758188-3ca498fc-d77c-4ec1-bef0-002d90fc486c.png)
-
-
-
 

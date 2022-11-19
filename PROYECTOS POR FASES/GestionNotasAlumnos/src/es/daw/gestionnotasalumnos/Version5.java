@@ -4,6 +4,7 @@
 package es.daw.gestionnotasalumnos;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 /**
  *
@@ -19,6 +20,7 @@ public class Version5 {
      */
     public static void main(String[] args) {
         
+        /*
         // Previamente está todo el cisco del Scanner y demás pidiendo el número de alumnos
         int numAlumnos = 4;
         int numModulos = 6;
@@ -109,14 +111,29 @@ public class Version5 {
         pintaColumna(notasClase5,2);
         System.out.println("-----");
         pintaColumna(notasClase5,0);
-        
+        */
         
         // ---------- PARA LOS ALUMNOS COMPLETAR !!!---------
         // Crear un método para rellenar la matriz de notas en base al número de alumnos que indique el usuario
         // Usad un método
         // Luego llamad a los métodos para pintar la matriz de las diferentes formas ya implementadas
         
-        notasClaseFinal ==> matriz
+        //1. CARGAR NOTAS DE ALUMOS DE DOS FORMAS
+        //1.1. Alumno a alumno todas las notas
+        float[][] notasAlumno6 = cargarNotasByAlumno();
+        //float[][] notasAlumno6 = cargarNotasByModulo();
+        
+        pintaMatriz(notasAlumno6);
+        
+        pintaFilasMatriz(notasAlumno6);
+        
+        // pinta la columna 2 (LM)
+        pintaColumna(notasAlumno6,1);
+        
+        
+        
+        
+        
 
     }
     
@@ -163,6 +180,84 @@ public class Version5 {
             System.out.println("Alumno "+nombresAlumnos[i]+ " ha sacado en "+MODULOS[col]+" un <"+matriz[i][col]+">");
         }
         
+    }
+    
+    /**
+     * Cargar notas por alumno (fila a fila)
+     * 
+     */
+    private static float[][] cargarNotasByAlumno(){
+        Scanner sc = new Scanner(System.in);
+        
+        System.out.println("Vas a cargar las notas completas de cada alumno!!");
+        System.out.println("¿De cuántos alumnos vas a introducir notas?");
+        int numAlumnos = sc.nextInt();
+        sc.nextLine();
+        
+        // Una vez que se el número de alumnos tengo que declarar:
+        // - La matriz con su número de filas
+        // - El array de nombres con tu tamaño (nombres de los alumnos)
+        
+        float[][] matriz  = new float[numAlumnos][MODULOS.length];
+        nombresAlumnos = new String[numAlumnos];
+    
+        for (int i = 0; i < matriz.length; i++) {
+            System.out.println("Introduce el nombre del alumno <"+(i+1)+">:");
+            nombresAlumnos[i] = sc.nextLine();
+            
+            System.out.println("\tAhora vas a introducir las notas de "+nombresAlumnos[i]);
+            
+            for (int j = 0; j < matriz[i].length; j++) {
+            //for (int j = 0; j < MODULOS.length; j++) {
+                System.out.println("\tIntroduce la nota de "+MODULOS[j]);
+                matriz[i][j] = sc.nextFloat();
+            }
+            
+            sc.nextLine();
+        }
+        
+        return matriz;
+    }
+    
+    /**
+     * Cargar notas por modulo (columna a columna)
+     * 
+     */    
+    private static float[][] cargarNotasByModulo(){
+        Scanner sc = new Scanner(System.in);
+        
+        System.out.println("Vas a cargar las notas de todos alumnos por módulo!!");
+        System.out.println("¿De cuántos alumnos vas a introducir notas?");
+        int numAlumnos = sc.nextInt();
+        sc.nextLine();
+
+        // Una vez que se el número de alumnos tengo que declarar:
+        // - La matriz con su número de filas
+        // - El array de nombres con tu tamaño (nombres de los alumnos)
+        
+        float[][] matriz  = new float[numAlumnos][MODULOS.length];
+        nombresAlumnos = new String[numAlumnos];
+
+        // Una vez que se el número de alumnos, cargo el array con todos los nombres
+        for (int i = 0; i < numAlumnos; i++) {
+            System.out.println("Introduce el nombre del alumno <"+(i+1)+">");
+            nombresAlumnos[i] = sc.nextLine();
+        }
+        
+        
+        // aquí i es columna 
+        // y j es fila
+        for (int i = 0; i < MODULOS.length; i++) {
+            System.out.println("Vas a introducir las notas del modulo "+MODULOS[i]);
+            for (int j = 0; j < matriz.length; j++) {
+                //System.out.println("\tIntroduce la nota del alumno <"+(j+1)+">");
+                System.out.println("\tIntroduce la nota del alumno "+nombresAlumnos[j]);
+                matriz[j][i] = sc.nextFloat();
+            }
+            sc.nextLine();
+        }
+        
+        return matriz;
     }
     
 }

@@ -1,5 +1,8 @@
 # Concesionario de coches
 
+![image](https://user-images.githubusercontent.com/91023374/203345701-5d1910f1-6945-4ca9-b356-c872f6837b88.png)
+
+
 ## Clase principal ejecutable
 
 Vamos a simular un concesionario de 10 coches.
@@ -17,6 +20,7 @@ Ten en cuenta que:
 - Usaremos la clase *StringBuilder* en el método toString de la clase Coche.
 - Usa métodos estáticos en una clase de utilidades.
 
+## Clase Coche
 
 ![Captura de pantalla 2022-10-26 131612](https://user-images.githubusercontent.com/91023374/198013155-93bb7641-2bb6-49dc-a9d5-b8890909ffae.jpg)
 

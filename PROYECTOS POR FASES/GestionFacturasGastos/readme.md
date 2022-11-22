@@ -40,7 +40,7 @@ Este método debe devolver el importe total de gastos de todas las facturas
 
 ******************************************
 
-### Versión 2.2: Matriz irregular: distinto número de gastos por factura
+### Versión 2.2: Matriz irregular: distinto número de gastos por factura (tiempo aprox. 1h 30m)
 
 ![image](https://user-images.githubusercontent.com/91023374/201478366-a46423cc-5867-4f3f-9aed-594b3f84fb0a.png)
 

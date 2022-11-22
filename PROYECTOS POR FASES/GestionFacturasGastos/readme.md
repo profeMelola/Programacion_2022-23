@@ -15,6 +15,7 @@ Vamos a programar la misma lógica pero guardando el importe de los gastos de ca
 
 ![image](https://user-images.githubusercontent.com/91023374/201478297-2c2a075f-7439-4a26-bdab-23e44166d373.png)
 
+******************************************
 
 ### Versión 2.1: Matriz regular: mismo número de gastos por factura
 
@@ -37,7 +38,7 @@ Este método debe devolver el importe total de gastos de una factura concreta
 
 Este método debe devolver el importe total de gastos de todas las facturas
 
-
+******************************************
 
 ### Versión 2.2: Matriz irregular: distinto número de gastos por factura
 
@@ -55,6 +56,7 @@ Recuerda que el número de facturas (N) las indicará el usuario y que el númer
 3. BUSCAR GASTO: Obtener información de la factura o facturas donde se encuentra el importe de un gasto en concreto que especificará el usuario.
 ****************************************
 
+******************************************
 
 #### Ejemplo de salida por consola tras la ejecución del programa
 
@@ -69,10 +71,13 @@ Recuerda que el número de facturas (N) las indicará el usuario y que el númer
 ![Captura de pantalla de 2022-11-18 17-47-45](https://user-images.githubusercontent.com/91023374/202758188-3ca498fc-d77c-4ec1-bef0-002d90fc486c.png)
 
 
+******************************************
+
 **AYUDA TEÓRICA: REPASO DE CONCEPTOS**
 
 ![image](https://user-images.githubusercontent.com/91023374/137719700-dabd81f2-f023-4302-b5d5-00d2602ecb81.png)
 
+******************************************
 
 **REPASO TEORÍA: Declaración de un array bidimensional irregular**
 

@@ -9,7 +9,7 @@ Vamos a simular un concesionario de 10 coches.
 
 Para ello vamos a usar un Array unidimensional.
 
-Después vamos a *implemetar los siguientes métodos:*
+Después vamos a **implemetar los siguientes métodos:**
 
 - Método para devolver el número de plazas libres que hay en el local del concesionario
 - Aplicar un descuento a los coches cuya marca sea "XXXX". Programa un método en una clase de utilidades que reciba el array de coches, la marca y el descuento a aplicar.

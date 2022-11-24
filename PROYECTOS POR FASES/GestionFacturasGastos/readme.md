@@ -58,7 +58,7 @@ Podrías usar Scanner como alternativa en el caso de no saber usar JOptionPane.
 
 Una vez introducidos los gastos de cada factura, el programa debe mostrar un menú con diferentes opciones:
 
-****** MENÚ CON DIFERENTES OPCIONES ******
+**MENÚ CON DIFERENTES OPCIONES**
 1. INFORME COMPLETO: Obtener informe con los gastos de cada factura, el importe final de la factura y el importe total de todas las facturas
 2. INFORME FACTURA: Obtener información de todos los gastos de una factura en contrecto (que especificará el usuario por número), ordenados de mayora a menor indicando el número de gastos totales y el importe total.
 3. BUSCAR GASTO: Obtener información de la factura o facturas donde se encuentra el importe de un gasto en concreto que especificará el usuario.

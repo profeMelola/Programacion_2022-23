@@ -39,22 +39,34 @@ Este método debe devolver el importe total de gastos de una factura concreta
 Este método debe devolver el importe total de gastos de todas las facturas
 
 ******************************************
+# EJERCICIO TIPO EXAMEN
+******************************************
 
 ### Versión 2.2: Matriz irregular: distinto número de gastos por factura (tiempo aprox. 1h 30m)
 
 ![image](https://user-images.githubusercontent.com/91023374/201478366-a46423cc-5867-4f3f-9aed-594b3f84fb0a.png)
 
-Ahora el número de gastos por factura puede ser distinto.
-
-Recuerda que el número de facturas (N) las indicará el usuario y que el número de gastos por factura es variable (M) y también lo introducirá el usuario.
-
 ******************************************
+
+Debes desarrollar un programa para la **gestión de facturas del Departamento de Informática del IES Alonso de Avellaneda.**
+
+Al iniciar el programa se debe poder introducir el número de facturas que se van a gestionar. Para recoger este dato utiliza la clase JOptionPane. 
+
+Podrías usar Scanner como alternativa en el caso de no saber usar JOptionPane.
+
+Después, por cada factura debemos introducir el número de gastos que están incluidos en cada factura y el importe de cada uno de ellos (puede ser decimal). 
+
+Una vez introducidos los gastos de cada factura, el programa debe mostrar un menú con diferentes opciones:
 
 ****** MENÚ CON DIFERENTES OPCIONES ******
 1. INFORME COMPLETO: Obtener informe con los gastos de cada factura, el importe final de la factura y el importe total de todas las facturas
 2. INFORME FACTURA: Obtener información de todos los gastos de una factura en contrecto (que especificará el usuario por número), ordenados de mayora a menor indicando el número de gastos totales y el importe total.
 3. BUSCAR GASTO: Obtener información de la factura o facturas donde se encuentra el importe de un gasto en concreto que especificará el usuario.
-****************************************
+
+El formato del menú y las preguntas/respuestas es libre, pero debes incluir en el menú las 3 opciones, antes descritas, y la opción de salir. 
+
+El menú debe mostrarse al usuario hasta que elija la opción de salir. En ese caso el programa se cerrará.
+
 
 ******************************************
 

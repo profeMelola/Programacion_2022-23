@@ -50,11 +50,11 @@ Este método debe devolver el importe total de gastos de todas las facturas
 
 Debes desarrollar un programa para la **gestión de facturas del Departamento de Informática del IES Alonso de Avellaneda.**
 
-Al iniciar el programa se debe poder introducir el número de facturas que se van a gestionar. Para recoger este dato utiliza la clase JOptionPane. 
+**Al iniciar el programa se debe poder introducir el número de facturas que se van a gestionar.** Para recoger este dato utiliza la clase JOptionPane. 
 
 Podrías usar Scanner como alternativa en el caso de no saber usar JOptionPane.
 
-Después, por cada factura debemos introducir el número de gastos que están incluidos en cada factura y el importe de cada uno de ellos (puede ser decimal). 
+**Después, por cada factura debemos introducir el número de gastos que están incluidos en cada factura y el importe de cada uno de ellos (puede ser decimal).**
 
 Una vez introducidos los gastos de cada factura, el programa debe mostrar un menú con diferentes opciones:
 

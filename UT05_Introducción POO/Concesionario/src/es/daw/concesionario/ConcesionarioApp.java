@@ -4,6 +4,7 @@
 package es.daw.concesionario;
 
 import es.daw.concesionario.model.Coche;
+import es.daw.concesionario.util.Utilidades;
 import java.util.Arrays;
 
 /**
@@ -12,10 +13,13 @@ import java.util.Arrays;
  */
 public class ConcesionarioApp {
     
+    //Pendiente: poner global el array de coches
+    
     public static void main(String[] args) {
         
-        //1. Creamos el concesionario (array de objetos coche)
-        // 10 plazas de coches en el local
+        // ------------------------------------------------------
+        // 1. Creamos el concesionario (array de objetos coche) 10 plazas de coches en el local
+        // 2. Damos de alta algunos coches en el concesionario (array coches)
         
         /*Coche[] coches = {
            new Coche("1111BVJ",3,"BMW"),
@@ -39,21 +43,29 @@ public class ConcesionarioApp {
         coches[5] = miBMW;
         
         
-        // Voy a poner el precio a los BMW
+        // Voy a poner el precio al último BMW
         //miBMW.setPrecio(30000);
-        coches[5].setPrecio(30000); // uso la referencia
+        /*coches[5].setPrecio(30000); // uso la referencia
+        System.out.println("* Información del coche con matrícula ["+miBMW.getMatricula()+"] sin aplicar el descuento:\n"+coches[5].toString());
         miBMW.aplicarDescuento(800);
-        System.out.println("Información del coche una vez aplicado el descuento:\n"+coches[5].toString());
+        System.out.println("* Información del coche con matrícula ["+miBMW.getMatricula()+"] una vez aplicado el descuento:\n"+coches[5].toString());*/
+        
+        // Poner precio por matrícula
+        Utilidades.ponerPrecioPorMatricula(coches, "4444AAA", 36500);
         
         
+        // Aplicar campaña de descuento a los coches de marca Audi
+        Utilidades.mostrarInfoConcesionario(coches,"AUDI");
+        Utilidades.aplicarDescuentoPorMarca(coches, "AUDI", 500);
+        System.out.println("* Aplicado descuento de 500 euros a los Audi");
+        Utilidades.mostrarInfoConcesionario(coches,"AUDI");
         
-        // Pendiente hacer un método para devolver el número de plazas libres que 
-        // hay en el local del concesionario
+        // Método para devolver el número de plazas libres que hay en el local del concesionario
+        System.out.println("* Número de plazas vacías en el concesionario: "+Utilidades.obtenerNumPlazasLibres(coches));
         
+               
         // Pendiente: poner el precio 50000 al coche con matrícula 1111BVJ
         
-        //System.out.println("** INFORMACIÓN DE LOS COCHES DEL CONCESIONARIO **");
-        //System.out.println(Arrays.toString(coches));
         
         
     }

@@ -31,8 +31,11 @@ Una vez dada de alta la tarjeta solo podrá modificarse el titular de la tarjeta
 
 ### Finalmente las acciones que se podrán realizar con la tarjeta serán:
 
-- Pagar: indicando el importe del pago. Solo se podrá pagar si la tarjeta está activa (verificarlo previamente)
-- Desactivar la tarjeta.
+- **Pagar:** indicando el importe del pago. Solo se podrá pagar si la tarjeta está activa (verificarlo previamente). En el caso de que hubiera algún problema en el pago se mostrará un mensaje por consola y se controlará a través de un booleano si ha habido error o no.
+
+Al pagar hay que tener en cuenta que el importe no puede ser superior al saldo de la tarjeta y que no sea superior al límite diario.
+
+- **Desactivar** la tarjeta.
 
 
 ### Requisitos del sistema

@@ -37,14 +37,6 @@ Una vez dada de alta la tarjeta solo podrá modificarse el titular de la tarjeta
 
 ### Requisitos del sistema
 
-El sistema debe preguntar el usuario por el número de tarjetas que va a dar de alta en el sistema quedando todas ellas guardadas en una misma estructura (un array).
-
-Por cada tarjeta es necesario pedir la información pertinente. Crea tarjetas de las dos formas posibles (con y sin límite de gasto).
-
-Realiza el pago con diferentes tarjetas simulando los diferentes casos de uso:
-- Pagar con un importe superior al saldo de la tarjeta. Mostrar mensaje de aviso.
-- Pagar con un importe superior al límite diario. Mostrar mensaje de aviso.
-
 **Debes implementar un menú con las siguientes opciones:**
 
 ********** MENÚ DEL SISTEMA DE GESTIÓN DE TARJETAS ************
@@ -54,3 +46,13 @@ Realiza el pago con diferentes tarjetas simulando los diferentes casos de uso:
 4. Pagar
 5. Desactivar tarjeta
 6. Salir
+
+**************************************************************
+
+El sistema debe preguntar el usuario por el número de tarjetas que va a dar de alta en el sistema quedando todas ellas guardadas en una misma estructura (un array).
+
+Por cada tarjeta es necesario pedir la información pertinente. Crea tarjetas de las dos formas posibles (con y sin límite de gasto).
+
+Realiza el pago con diferentes tarjetas simulando los diferentes casos de uso:
+- Pagar con un importe superior al saldo de la tarjeta. Mostrar mensaje de aviso.
+- Pagar con un importe superior al límite diario. Mostrar mensaje de aviso.

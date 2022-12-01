@@ -25,7 +25,7 @@ Vas a desarrollar un **sistema de gestión de tarjetas de crédito.**
 
 Por otro lado, cada vez que se da de alta una tarjeta el sistema llevará el control del número de tarjetas dadas de alta. Valor que podrá consultarse en cualquier momento.
 
-### Por otro lado, también hay que tener en cuenta que:
+### También hay que tener en cuenta que:
 
 Una vez dada de alta la tarjeta solo podrá modificarse el titular de la tarjeta, su saldo y el límite de gasto.
 

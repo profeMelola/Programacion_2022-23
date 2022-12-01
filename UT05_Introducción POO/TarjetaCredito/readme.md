@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/91023374/198006016-c673110b-ce5e-40fb-a8a1-3e5bbdf66498.png)
 
 
-## ENUNCIADO DEL EJERCICIO
+## ENUNCIADO DEL EJERCICIO (quedó incompleto en la clase del miércoles 30 de noviembre)
 
 Vas a desarrollar un **sistema de gestión de tarjetas de crédito.** 
 

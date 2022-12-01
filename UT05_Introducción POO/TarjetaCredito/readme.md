@@ -42,7 +42,9 @@ Al pagar hay que tener en cuenta que el importe no puede ser superior al saldo d
 
 **Debes implementar un menú con las siguientes opciones:**
 
-********** MENÚ DEL SISTEMA DE GESTIÓN DE TARJETAS ************
+*************************************************************
+
+            **MENÚ DEL SISTEMA DE GESTIÓN DE TARJETAS**
 1. Dar de altas tarjetas de crédito.
 2. Mostrar información de todas las tarjetas.
 3. Mostrar información de una tarjeta a través de su número identificativo.

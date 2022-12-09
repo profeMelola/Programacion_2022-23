@@ -5,6 +5,7 @@
  */
 package es.daw.puzzle.util;
 
+import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -15,7 +16,7 @@ import java.util.Scanner;
 public class Utilidades {
 
     /**
-     * devuelveTabla
+     * Convierte un array de cadenas en una matriz bidimensional de caracteres
      * @param palabras
      * @return 
      */
@@ -38,7 +39,7 @@ public class Utilidades {
     }
 
     /**
-     * copiarTabla
+     * Copia una matriz en otra nueva que devuelve
      * @param tabla
      * @return 
      */
@@ -99,14 +100,23 @@ public class Utilidades {
      */
     public static boolean compararTablas(char tabla[][], char copia[][]) {
 
+        /*
         for (int fila = 0; fila < tabla.length; fila++) {
             for (int col = 0; col < tabla[0].length; col++) {
                 if (copia[fila][col] != tabla[fila][col]) {
                     return false;
                 }
             }
-        }
-        return true;
+        }*/
+        
+        /*
+        for (int fila = 0; fila < tabla.length; fila++) {
+            Arrays.equals(tabla[fila],copia[fila]);
+        }*/
+        
+        return Arrays.deepEquals(tabla, copia);
+        
+        //return true;
 
     }
 

@@ -10,13 +10,13 @@ Además, cada uno tiene un **eslogan** que es:
 - "Ideal para sus viajes" en el caso de los portátiles
 - "Es el que más pesa, pero el que menos cuesta" para el caso de los ordenadores de sobremesa.
 
-El eslogan se obtiene mediante un método espécifico llamado obtenerEslogan.
+El eslogan se obtiene mediante un método espécifico llamado **obtenerEslogan** que en cada caso devolverá un String con el eslogan correspondiente.
 
-**Los ordenadores portátiles tienen:**
+**Los ordenadores portátiles tienen además:**
 
 - un atributo peso
 
-**Los de sobremesa tienen:**
+**Los de sobremesa tienen además:**
 
 - la descripción del tipo de torre.
 

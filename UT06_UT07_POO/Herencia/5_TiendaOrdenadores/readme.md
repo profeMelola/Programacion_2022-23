@@ -20,6 +20,8 @@ El eslogan se obtiene mediante un método espécifico llamado **obtenerEslogan**
 
 - la descripción del tipo de torre.
 
+Ten en cuenta además que el **método natural de ordenación** de los ordenadores será a través del código.
+
 ### Se pide:
 
 - Definir e implementar las clases.

@@ -26,3 +26,4 @@ Ten en cuenta además que el **método natural de ordenación** de los ordenador
 
 - Definir e implementar las clases.
 - Crear un programa en Java que cree un par de objetos de tipo Ordenador y Portatil que muestre las características de ambos. 
+- Añadir dichos objetos a una colección dinámica (ArrayList) y devolverlos ordenados.

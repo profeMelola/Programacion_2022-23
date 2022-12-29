@@ -1,5 +1,5 @@
 # Tienda de ordenadores
-## Ejercicio para practicar la herencia
+## Ejercicio para practicar la herencia y definición de un método abstracto
 
 En una **tienda** se venden 2 tipos de ordenadores: **portátiles y de sobremesa.**
 
@@ -9,6 +9,8 @@ Además, cada uno tiene un **eslogan** que es:
 
 - "Ideal para sus viajes" en el caso de los portátiles
 - "Es el que más pesa, pero el que menos cuesta" para el caso de los ordenadores de sobremesa.
+
+El eslogan se obtiene mediante un método espécifico llamado obtenerEslogan.
 
 **Los ordenadores portátiles tienen:**
 

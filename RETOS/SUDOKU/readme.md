@@ -53,7 +53,7 @@ El profesor irá publicando pistas semanalmente para ayudar a aquellos bloqueado
 
 El programa podrá entregarse en el aula virtual (los fuentes y el jar versión jdk 11).
 
-**Fecha límite: viernes 17 de febrero**
+**Fecha límite: viernes 3 de febrero**
 
 No es una actividad evaluable, no cuenta para el 15% de la nota pero sí es un "reto grupal" el sacar adelante el SUDOKU.
 

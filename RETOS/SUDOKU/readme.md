@@ -65,7 +65,6 @@ La entrega está en la sección principal del curso en el aula virtual:
 
 ![image](https://user-images.githubusercontent.com/91023374/211314285-757b94e0-8143-424c-adc7-fbb84c9cbc48.png)
 
-Enlace a la entrega en el Aula Virtual [
-](https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/mod/assign/view.php?id=61985)
+https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/mod/assign/view.php?id=61985
 
 

@@ -63,5 +63,6 @@ Jugaremos en clase con los Sudokus entregados y el profesor podrá preguntar a c
 
 La entrega está en la sección principal del curso en el aula virtual:
 
-![image](https://user-images.githubusercontent.com/91023374/146826786-7b55f128-791e-4125-b78a-aafce4c15080.png)
+![image](https://user-images.githubusercontent.com/91023374/211314285-757b94e0-8143-424c-adc7-fbb84c9cbc48.png)
+
 

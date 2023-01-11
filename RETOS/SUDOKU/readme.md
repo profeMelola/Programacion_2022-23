@@ -48,35 +48,51 @@ El profesor irá publicando pistas semanalmente para ayudar a aquellos bloqueado
 
 ![image](https://user-images.githubusercontent.com/91023374/146194724-942f3b84-3bfc-423e-921c-34a55faa7c0b.png)
 
-### Pista 1: array de 4 dimensiones
+### PISTA 1: array de 4 dimensiones
+
+**Si vemos el tablero del Sudoku pensamos en un array bidimensional de 9x9:**
+
+![image](https://user-images.githubusercontent.com/91023374/211816486-4421f912-9dac-4a24-b172-4c9597db69a3.png)
+
+**Pero si pensamos en los sectores, cada sector es un array bidimensional de 3 x 3.**
+
+Por tanto, podemos ver el tablero completo como un array de 4 dimensiones 3 x 3 x 3 x 3, ya que tendríamos un array bidimensional de 3 filas y 3 columnas donde cada celda tendría a su vez dos dimensiones más, las tres filas y tres columnas del sector.
+
+**EJEMPLO DE CÓDIGO TRABAJANDO CON ARRAY DE 4 DIMENSIONES**
+
 ```
-// Declaración del array de 4 dimensiones
-private final int DIM0 = 3;
-private final int DIM1 = 3;
-private final int DIM2 = 3;
-private final int DIM3 = 3;
-
-int tablero = new int[DIM0][DIM1][DIM2][DIM3];
-
-// Método que inicializa el array de 4 dimensiones
-    private void crearTablero() {
+        int DIM0 = 3;
+        int DIM1 = 3;
+        int DIM2 = 3;
+        int DIM3 = 3;
         
-        // Ejemplo con un sector con valores fijos
-        int sector[][] = {{1, 5, 9}, {2, 7, 4}, {3, 8, 6}};
-        tablero[0][0] = sector;
+        int tablero[][][][];
         
-        // Dimensión 0
-        for (int dim0 = 0; dim0 < DIM0; dim0++) {
-             
-            if (dim0 != 0) {
+        tablero = new int[DIM0][DIM1][DIM2][DIM3];
+        
+        int valor = 10;
+        for(int dim0=0; dim0 < DIM0; dim0++){
+            for(int dim1=0; dim1 < DIM1; dim1++){
+                for(int dim2=0; dim2 < DIM2; dim2++){
+                    for(int dim3=0; dim3 < DIM3; dim3++){
+                        tablero[dim0][dim1][dim2][dim3] = valor;
+                        valor++;
+                    }
+                }
             }
-            
         }
-    }
 
 ```
+Este código daría como resultado el siguiente tablero 3 x 3 x 3
 
+![image](https://user-images.githubusercontent.com/91023374/211818999-8353e673-82f6-4bae-93e5-a5b5f84f15ab.png)
 
+O por ejemplo este código sería totalmente válido:
+
+```
+int sector[][] = {{1, 5, 9}, {2, 7, 4}, {3, 8, 6}};
+tablero[0][0] = sector;
+```
 
 ## ENTREGA VOLUNTARIA
 

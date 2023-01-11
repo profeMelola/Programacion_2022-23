@@ -48,6 +48,35 @@ El profesor irá publicando pistas semanalmente para ayudar a aquellos bloqueado
 
 ![image](https://user-images.githubusercontent.com/91023374/146194724-942f3b84-3bfc-423e-921c-34a55faa7c0b.png)
 
+### Pista 1: array de 4 dimensiones
+```
+// Declaración del array de 4 dimensiones
+private final int DIM0 = 3;
+private final int DIM1 = 3;
+private final int DIM2 = 3;
+private final int DIM3 = 3;
+
+int tablero = new int[DIM0][DIM1][DIM2][DIM3];
+
+// Método que inicializa el array de 4 dimensiones
+    private void crearTablero() {
+        
+        // Ejemplo con un sector con valores fijos
+        int sector[][] = {{1, 5, 9}, {2, 7, 4}, {3, 8, 6}};
+        tablero[0][0] = sector;
+        
+        // Dimensión 0
+        for (int dim0 = 0; dim0 < DIM0; dim0++) {
+             
+            if (dim0 != 0) {
+            }
+            
+        }
+    }
+
+```
+
+
 
 ## ENTREGA VOLUNTARIA
 
